@@ -1,0 +1,9 @@
+.idea
+*.iml
+/internals
+/node_modules
+
+/SpeechOutput.d.ts
+/SpeechOutput.d.ts.map
+/SpeechOutput.js
+/SpeechOutput.js.map

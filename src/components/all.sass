@@ -1,0 +1,186 @@
+@import "~bulma/sass/utilities/initial-variables"
+
+$blue: #003E6B
+$blue-invert: #DCEEFB
+
+$primary: $blue
+$primary-invert: $blue-invert
+$body-color: #243B53
+$black: #102A43
+$gray: #6D6D6D
+$light: #D9D8D5
+$light-gray: #E8E6E3
+$yellow: #FDD432
+
+$dark-background: #000000
+$dark-light-background: #1B1B1B
+$dark-lighter-background: #3B3B3B
+$dark-primary: #FFF39B
+
+h1
+  font-size: 3rem !important
+  background-color: $yellow
+  .dark-mode &
+    background-color: $dark-light-background
+    color: $dark-primary !important
+
+h2
+  font-size: 2.5rem !important
+  background-color: $light-gray
+  .dark-mode &
+    background-color: $dark-lighter-background
+    color: $dark-primary !important
+
+
+h3
+  font-size: 2rem !important
+
+h4
+  font-size: 1.5rem !important
+
+h5
+  font-size: 1.25rem !important
+
+h6
+  font-size: 1rem !important
+
+h3, h4, h5, h6
+  .dark-mode &
+    color: #ffffff !important
+
+.navbar .navbar-menu
+  box-shadow: none !important
+
+.margin-top-0
+  margin-top: 0 !important
+
+footer.footer
+  padding: 3rem 0rem 1.2rem
+  background-color: $gray
+  color: #ffffff
+  .dark-mode &
+    background-color: $dark-light-background
+    color: #ffffff
+
+$body-background-color: transparent
+$menu-item-color: #ffffff
+$menu-item-hover-color: #ffffff !important
+$menu-item-hover-background-color: transparent !important
+$menu-item-active-color: $primary-invert
+$menu-item-active-background-color:	$primary-invert
+$menu-list-border-left: 1px solid $primary-invert
+$menu-label-color: $white-ter
+$navbar-item-hover-color: $black
+
+$navbar-item-hover-background-color: #FDD432
+.navbar-item:hover
+  .dark-mode &
+    background-color: $dark-primary
+
+
+$button-background-color: $yellow
+.button
+  .dark-mode &
+    background-color: $dark-light-background
+    color: #ffffff
+
+body.dark-mode
+  background-color: $dark-background
+  color: #ffffff
+
+$navbar-background-color: $light
+.navbar
+  .dark-mode &
+    background-color: $dark-light-background
+
+a
+  .dark-mode &
+    color: $dark-primary
+
+
+.menu-label
+  font-size: 1em !important
+  text-align: left
+
+.menu-list
+  list-style: none !important
+  text-align: left
+
+
+.impressum
+  color: #ffffff !important
+
+
+.dark-mode-toggle
+  cursor: pointer
+  background-color: transparent
+  border-color: transparent
+
+
+.dark-mode-toggle:hover
+  .dark-mode &
+    background-color: transparent
+
+
+label
+  .dark-mode &
+    color: #ffffff
+
+
+input, textarea
+  .dark-mode &
+    background-color: $dark-light-background
+    color: #ffffff
+
+
+.card
+  .dark-mode &
+    background-color: $dark-light-background
+
+
+.title
+  .dark-mode &
+    color: $dark-primary
+
+
+.subtitle
+  .dark-mode &
+    color: #ffffff
+
+
+.navbar-burger, .burger, .navbar-menu
+  .dark-mode &
+    background-color: $dark-light-background
+    color: $dark-primary
+
+
+.content
+  .dark-mode &
+    color: #ffffff
+
+
+.dark-mode-content
+  .dark-mode &
+    color: $dark-primary
+
+
+.gatsby-resp-image-wrapper
+  margin-left: 0 !important
+  margin-right: 0 !important
+
+
+.dimmed
+  position: relative
+
+.dimmed:after
+  content: " "
+  z-index: 10
+  display: block
+  position: absolute
+  height: 100%
+  top: 0
+  left: 0
+  right: 0
+  background: rgba(0, 0, 0, 0.8)
+
+@import "~bulma"

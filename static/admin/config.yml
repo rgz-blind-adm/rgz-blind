@@ -1,0 +1,202 @@
+backend:
+  name: git-gateway
+  branch: master
+  commit_messages:
+    create: 'Create {{collection}} “{{slug}}”'
+    update: 'Update {{collection}} “{{slug}}”'
+    delete: 'Delete {{collection}} “{{slug}}”'
+    uploadMedia: '[skip ci] Upload “{{path}}”'
+    deleteMedia: '[skip ci] Delete “{{path}}”'
+
+media_folder: static/uploads
+public_folder: /uploads
+locale: 'de'
+site_url: https://www.rgz-blind.ch
+
+collections:
+  - name: "aktivitaetpost"
+    label: "Aktivitäten"
+    folder: "content/posts/aktivitaet-posts"
+    create: true
+    slug: "{{year}}-{{month}}-{{day}}-{{slug}}"
+    fields:        
+      - {label: "Template Key", name: "templateKey", widget: "hidden", default: "aktivitaet-post"}
+      - {label: "Title", name: "title", widget: "string"}
+      - {label: "Kurzbeschreibung", name: "shortdescription", widget: "string"}
+      - {label: "Suchmaschine Beschreibung", name: "seodescription", widget: "string"}
+      - {label: "Fotogallerie", name: "photogallery", widget: "list", field: {label: "Bild", name: "bild", widget: object, fields: [{label: Image, name: image, widget: image}, {label: Alt, name: alt, widget: string}]}}
+      - {label: "Veranstaltungsdatum", name: "date", widget: "datetime",  timeFormat: false, dateFormat: "DD.MM.YYYY"}
+      - {label: "Ist archiviert", name: "istArchiviert", widget: "boolean", default: false}
+      - {label: "Anmeldeformular anzeigen", name: "anmeldeformularanzeigen", widget: "boolean", default: true}
+      - {label: "Body", name: "body", widget: "markdown"}
+
+      
+  - name: "gruppepost"
+    label: "Gruppen"
+    folder: "content/posts/gruppe-posts"
+    create: true
+    slug: "{{year}}-{{month}}-{{day}}-{{slug}}"
+    fields:        
+      - {label: "Template Key", name: "templateKey", widget: "hidden", default: "gruppe-post"}
+      - {label: "Title", name: "title", widget: "string"}
+      - {label: "Suchmaschine Beschreibung", name: "seodescription", widget: "string"}
+      - {label: "Body", name: "body", widget: "markdown"}
+
+  - name: "vorstandmember"
+    label: "Vorstand"
+    folder: "content/posts/vorstand-members"
+    create: true
+    fields:        
+      - {label: "Template Key", name: "templateKey", widget: "hidden", default: "vorstand"}
+      - {label: "Portrait", name: "portrait", widget: object, fields: [{label: PortraitImage, name: image, widget: image}, {label: Alt, name: alt, widget: string}]}
+      - {label: "Title", name: "title", widget: "string"}
+      - {label: "Suchmaschine Beschreibung", name: "seodescription", widget: "string"} 
+      - {label: "Funktion", name: "funktion", widget: "string"}
+      - {label: "Telefon", name: "telefon", widget: "string"}
+      - {label: "EMail", name: "email", widget: "string"}
+      - {label: "Reihenfolge", name: "reihenfolge", widget: "number"}
+      - {label: "Body", name: "body", widget: "markdown"}
+
+  - name: "projekte"
+    label: "Projekte"
+    folder: "content/posts/projekt-items"
+    create: true
+    fields:        
+      - {label: "Template Key", name: "templateKey", widget: "hidden", default: "projekt-item"}
+      - {label: "Bild", name: "bild", widget: object, fields: [{label: Image, name: image, widget: image}, {label: Alt, name: alt, widget: string}]}
+      - {label: "Title", name: "title", widget: "string"}
+      - {label: "Link", name: "link", widget: "string"}
+      - {label: "Beschreibung", name: "beschreibung", widget: "string"}
+      - {label: "Reihenfolge", name: "reihenfolge", widget: "number"}
+
+  - name: "talente"
+    label: "Talente und Aktivitäten"
+    folder: "content/posts/projekte/talente"
+    create: true
+    fields:        
+      - {label: "Template Key", name: "templateKey", widget: "hidden", default: "talent-item"}
+      - {label: "Title", name: "title", widget: "string"}
+      - {label: "Suchmaschine Beschreibung", name: "seodescription", widget: "string"} 
+      - {label: "Fotogallerie", name: "photogallery", widget: "list", field: {label: "Bild", name: "bild", widget: object, fields: [{label: Image, name: image, widget: image}, {label: Alt, name: alt, widget: string}]}}
+      - {label: "Body", name: "body", widget: "markdown"}
+
+  - name: "kochrezepte"
+    label: "Kochrezepte"
+    folder: "content/posts/projekte/kochrezepte"
+    create: true
+    fields:        
+      - {label: "Template Key", name: "templateKey", widget: "hidden", default: "kochrezept-item"}
+      - {label: "Title", name: "title", widget: "string"}
+      - {label: "Kategorie", name: "kategorie", widget: "select", options: ["1. Vorspeisen, Suppen und Salate", "2. Hauptspeisen", "3. Dessert"], default: ["2. Hauptspeisen"]}
+      - {label: "Suchmaschine Beschreibung", name: "seodescription", widget: "string"}
+      - {label: "body", name: "body", widget: "markdown"}
+
+  - name: "adventskalender-tuerchen"
+    label: "Adventskalender Türchen"
+    folder: "content/posts/projekte/adventskalender-tuerchen"
+    create: true
+    fields:        
+      - {label: "Template Key", name: "templateKey", widget: "hidden", default: "adventskalender-tuerchen"}
+      - {label: "Title", name: "title", widget: "string"}
+      - {label: "Tag", name: "tag", widget: "number", value_type: "int", min: 1, max: 24}
+      - {label: "Bild", name: "bild", widget: object, fields: [{label: Image, name: image, widget: image}, {label: Alt, name: alt, widget: string}]}
+      - {label: "body", name: "body", widget: "markdown"}
+
+  - name: "pages"
+    label: "Pages"
+    files:
+      - file: "content/posts/index.md"
+        label: "Startseite"
+        name: "index"
+        fields:
+          - {label: "Template Key", name: "templateKey", widget: "hidden", default: "index-page"}
+          - {label: "Title", name: "title", widget: "string"}
+          - {label: "Body", name: "body", widget: "markdown"}          
+      - file: "content/posts/kochbuch-bestellen/index.md"
+        label: "Kochbuch bestellen"
+        name: "kochbuch-bestellen"
+        fields:
+          - {label: "Template Key", name: "templateKey", widget: "hidden", default: "index-page"}
+          - {label: "Title", name: "title", widget: "string"}
+          - {label: "Body", name: "body", widget: "markdown"}
+      - file: "content/posts/aktivitaeten/index.md"
+        label: "Aktivitäten"
+        name: "aktivitaeten"
+        fields:
+          - {label: "Template Key", name: "templateKey", widget: "hidden", default: "aktivitaeten-page"}
+          - {label: "Title", name: "title", widget: "string"}
+          - {label: "Body", name: "body", widget: "markdown"}
+      - file: "content/posts/vorstand/index.md"
+        label: "Vorstand"
+        name: "vorstand"
+        fields:
+          - {label: "Template Key", name: "templateKey", widget: "hidden", default: "vorstand-page"}
+          - {label: "Title", name: "title", widget: "string"}
+      - file: "content/posts/projekte/index.md"
+        label: "Projekte"
+        name: "projekte"
+        fields:
+          - {label: "Template Key", name: "templateKey", widget: "hidden", default: "projekte-page"}
+          - {label: "Title", name: "title", widget: "string"}
+      - file: "content/posts/projekte/kochrezepte-projekt/index.md"
+        label: "Kochrezepte"
+        name: "kochrezepte-projekt"
+        fields:
+          - {label: "Template Key", name: "templateKey", widget: "hidden", default: "kochrezepte-projekt-page"}
+          - {label: "Title", name: "title", widget: "string"}
+      - file: "content/posts/projekte/talente-projekt/index.md"
+        label: "Talente und Aktivitäten"
+        name: "talente-projekt"
+        fields:
+          - {label: "Template Key", name: "templateKey", widget: "hidden", default: "talente-projekt-page"}
+          - {label: "Title", name: "title", widget: "string"}
+      - file: "content/posts/projekte/Grossmünster-Modell-Projekt/index.md"
+        label: "Grossmünster Reparatur Projekt"
+        name: "Grossmünster-Modell-Projekt"
+        fields:
+          - {label: "Template Key", name: "templateKey", widget: "hidden", default: "grossmuenster-modell-projekt-page"}
+          - {label: "Title", name: "title", widget: "string"}
+          - {label: "Fotogallerie", name: "photogallery", widget: "list", field: {label: "Bild", name: "bild", widget: object, fields: [{label: Image, name: image, widget: image}, {label: Alt, name: alt, widget: string}]}}
+          - {label: "Body", name: "body", widget: "markdown"}      
+      - file: "content/posts/projekte/adventskalender/index.md"
+        label: "Adventskalender"
+        name: "adventskalender"
+        fields:
+          - {label: "Template Key", name: "templateKey", widget: "hidden", default: "adventskalender"}
+          - {label: "Title", name: "title", widget: "string"}
+          - {label: "Body", name: "body", widget: "markdown"}
+      - file: "content/posts/projekte/adventskalender-2021/index.md"
+        label: "Adventskalender 2021"
+        name: "adventskalender-2021"
+        fields:
+          - {label: "Template Key", name: "templateKey", widget: "hidden", default: "adventskalender-2021"}
+          - {label: "Title", name: "title", widget: "string"}
+          - {label: "Body", name: "body", widget: "markdown"}
+      - file: "content/posts/impressum/index.md"
+        label: "Impressum"
+        name: "impressum"
+        fields:
+          - {label: "Template Key", name: "templateKey", widget: "hidden", default: "impressum-page"}
+          - {label: "Title", name: "title", widget: "string"}
+          - {label: "Body", name: "body", widget: "markdown"}
+      - file: "content/posts/netzwerk/index.md"
+        label: "Netzwerk"
+        name: "netzwerk"
+        fields:
+          - {label: "Template Key", name: "templateKey", widget: "hidden", default: "netzwerk-page"}
+          - {label: "Title", name: "title", widget: "string"}
+          - {label: "Body", name: "body", widget: "markdown"}
+      - file: "content/posts/spenden/index.md"
+        label: "Spenden"
+        name: "spenden"
+        fields:
+          - {label: "Template Key", name: "templateKey", widget: "hidden", default: "spenden-page"}
+          - {label: "Title", name: "title", widget: "string"}
+          - {label: "Body", name: "body", widget: "markdown"}
+      - file: "content/posts/ueberuns/index.md"
+        label: "Über uns"
+        name: "ueberuns"
+        fields:
+          - {label: "Template Key", name: "templateKey", widget: "hidden", default: "ueberuns-page"}
+          - {label: "Title", name: "title", widget: "string"}
+          - {label: "Body", name: "body", widget: "markdown"}
