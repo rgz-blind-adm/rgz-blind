@@ -77,7 +77,7 @@ module.exports = {
             options: {
                 extensions: [`.mdx`, `.md`],
                 plugins: [
-                    require.resolve('./plugins/gatsby-mdx-tts'),
+                    'gatsby-mdx-tts',
                     'gatsby-remark-audio',
                     'gatsby-remark-embed-video',
                     'gatsby-remark-relative-images',
@@ -87,7 +87,7 @@ module.exports = {
                 ],
                 gatsbyRemarkPlugins: [
                     {
-                        resolve: require.resolve('./plugins/gatsby-mdx-tts'),
+                        resolve: 'gatsby-mdx-tts',
                         options: {
                             awsRegion: 'eu-central-1',
                             defaultVoiceId: 'Vicki',
