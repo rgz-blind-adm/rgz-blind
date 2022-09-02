@@ -3,6 +3,6 @@
   command = "yarn build"
   functions = "functions"
 [build.environment]
-  NODE_VERSION = "16.5.1"
+  NODE_VERSION = "16"
 [[plugins]]
 package = "@netlify/plugin-gatsby"
