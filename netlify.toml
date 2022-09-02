@@ -1,6 +1,6 @@
 [build]
   publish = "public"
-  command = "npm link ./plugins/gatsby-mdx-tts --legacy-peer-deps && npm run build"
+  command = "npm run build"
   functions = "functions"
 [build.environment]
   NODE_VERSION = "17.4.0"
