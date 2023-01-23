@@ -3,6 +3,33 @@ import { navigate } from 'gatsby-link'
 import Layout from '../../components/Layout'
 import { Helmet } from 'react-helmet'
 
+// function sendEmail(form: any, replyAdress: any, nachricht: any) {
+//     const subject = form.getAttribute('name');
+//     const body = `<html>${nachricht}</html>`;
+
+//     console.log(body);
+
+//     window.Email.send({
+//         Host: "smtp.elasticemail.com",
+//         Port: "2525",
+//         Username: "",
+//         Password: "",
+//         From: "info@rgz-blind.ch",
+//         ReplyAddress: replyAdress,
+//         To: 'info@rgz-blind.ch',
+//         //To: 'raf@simpra.ch',
+//         Subject: subject,
+//         Body: body
+//     })
+//         .then((message :any) => {
+//             console.log(message);
+//             if (message != 'OK') {
+//                 console.error(message);
+//                 alert('Fehler beim Versenden des Formulars.');
+//             }
+//         });
+// }
+
 function encode(data: any) {
     return Object.keys(data)
         .map(
@@ -11,6 +38,18 @@ function encode(data: any) {
         )
         .join('&')
 }
+
+
+// function emailBody(data: any) {
+//     var body = 'Name: ' + data['name'] + '<br><br>';
+//     body += 'E-Mail: ' + data['email'] + '<br><br>';
+//     body += 'Nachricht:<br>' + data['nachricht'].replace(new RegExp('\r?\n', 'g'), '<br>');
+//     return body;
+// }
+
+// function emailReply(data: any) {
+//     return data['email'];
+// }
 
 export default class Index extends React.Component {
     constructor(props: any) {
@@ -25,6 +64,13 @@ export default class Index extends React.Component {
     handleSubmit = (e: any) => {
         e.preventDefault()
         const form = e.target
+        // sendEmail(form, emailReply({
+        //     'form-name': form.getAttribute('name'),
+        //     ...this.state,
+        // }), emailBody({
+        //     'form-name': form.getAttribute('name'),
+        //     ...this.state,
+        // }));
         fetch('/', {
             method: 'POST',
             headers: { 'Content-Type': 'application/x-www-form-urlencoded' },
@@ -40,6 +86,7 @@ export default class Index extends React.Component {
     render() {
         return (
             <Layout>
+                <script src="https://smtpjs.com/v3/smtp.js"> </script>
                 <Helmet>
                     <title>
                         Kontakt - Schweizerischer Blindenbund Regionalgruppe

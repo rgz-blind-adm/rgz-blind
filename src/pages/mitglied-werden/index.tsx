@@ -3,6 +3,89 @@ import { navigate } from 'gatsby-link'
 import Layout from '../../components/Layout'
 import { Helmet } from 'react-helmet'
 
+// function sendEmail(form: any, replyAdress: any, nachricht: any) {
+//     const subject = form.getAttribute('name');
+//     const body = `<html>${nachricht}</html>`;
+
+//     console.log(body);
+
+//     window.Email.send({
+//         Host: "smtp.elasticemail.com",
+//         Port: "2525",
+//         Username: "",
+//         Password: "",
+//         From: "info@rgz-blind.ch",
+//         ReplyAddress: replyAdress,
+//         To: 'raf@simpra.ch',
+//         Subject: subject,
+//         Body: body
+//     })
+//         .then((message: any) => {
+//             console.log(message);
+//             if (message != 'OK') {
+//                 console.error(message);
+//                 alert('Fehler beim Versenden des Formulars.');
+//             }
+//         });
+// }
+
+// function addDefined(body: any, value: any) {
+//     if (value != 'undefined') {
+//         body += value + '<br>';
+//     }
+// }
+
+// function definedOrEmpty(value: any) {
+//     if (value != 'undefined') {
+//         return value;
+//     } else {
+//         return '';
+//     }
+// }
+
+// function emailBody(data: any) {
+//     var body = 'Art der Mitgliedschaft: ' + data['mitgliedschaft'] + '<br><br>';
+//     body += 'Anrede: ' + data['anrede'] + '<br><br>';
+//     body += 'Name: ' + data['name'] + '<br><br>';
+//     body += 'Strasse: ' + data['strasse'] + '<br><br>';
+//     body += 'PLZ Ort: ' + data['plzort'] + '<br><br>';
+//     body += 'Kanton: ' + definedOrEmpty(data['kanton']) + '<br><br>';
+//     body += 'Telefon privat: ' + definedOrEmpty(data['telefonprivat']) + '<br><br>';
+//     body += 'Handynummer: ' + definedOrEmpty(data['handynummer']) + '<br><br>';
+//     body += 'E-Mail: ' + definedOrEmpty(data['email']) + '<br><br>';
+//     body += 'Beruf: ' + definedOrEmpty(data['beruf']) + '<br><br>';
+//     body += 'Geburtsdatum: ' + definedOrEmpty(data['geburtsdatum']) + '<br><br>';
+//     body += 'Zivilstand: ' + definedOrEmpty(data['zivilstand']) + '<br><br>';
+//     body += 'Grad der Sehbehinderung: ' + data['grad-sehbehinderung'] + '<br><br>';
+//     body += 'Falls sehbehindert oder blind, seit wann: ' + definedOrEmpty(data['seit-wann-sehbehindert-oder-blind']) + '<br><br>';
+//     body += 'Was erwarten Sie vom Schweizerischen Blindenbund: <br>' + definedOrEmpty(data['erwartungen-sbb']) + '<br><br>';
+//     body += 'Welche Beratungsstelle würden Sie ggf. aufsuchen? ' + data['aufzusuchende-beratungsstelle'] + '<br><br>';
+//     body += 'Können Sie Blindenschrift lesen?<br>';
+//     addDefined(body, data['kann-vollschrift-lesen']);
+//     addDefined(body, data['kann-kurzschrift-lesen']);
+//     addDefined(body, data['kann-blindenschrift-nicht-lesen']);
+//     body += '<br>';
+//     body += 'In welcher Form möchten Sie die Unterlagen des Schweizerischen Blindenbundes erhalten?<br>';
+//     addDefined(body, data['unterlagen-in-schwarzschrift']);
+//     addDefined(body, data['unterlagen-in-blindenschrift']);
+//     addDefined(body, data['unterlagen-per-email']);
+//     body += '<br>';
+//     body += 'Besitzen Sie einer der folgenden Ausweiskarten?<br>';
+//     addDefined(body, data['besitzt-jahreskarte-voev']);
+//     addDefined(body, + data['besitzt-begleiterkarte']);
+//     body += '<br>';
+//     body += 'Durch wen sind Sie auf den Schweizerischen Blindenbund aufmerksam gemacht worden?<br>' + definedOrEmpty(data['aufmerksam-auf-sbb-durch-wen']) + '<br><br>';
+//     body += 'Um ihre Aufgaben wahrnehmen zu können, sind unsere Regionalgruppen auf aktive Mitarbeit ihrer Mitglieder sowie freiwillige Helfende angewiesen. Dürfen wir Sie bei Bedarf anfragen, ob Sie bereits sind, mitzuhelfen? ' + data['anfrage-mithilfe-erlaubt'] + '<br><br>';
+//     body += 'Möchten Sie an den Veranstaltungen der Regionalgruppe teilnehmen und Einladungen dafür erhalten? ' + data['moechte-an-veranstaltungen-teilnehmen'] + '<br><br>';
+//     body = body.replace(new RegExp('\r?\n', 'g'), '<br>');
+
+//     return body;
+// }
+
+// function emailReply(data: any) {
+//     return data['email'];
+// }
+
 function encode(data: any) {
     return Object.keys(data)
         .map(
@@ -15,7 +98,15 @@ function encode(data: any) {
 export default class Index extends React.Component {
     constructor(props: any) {
         super(props)
-        this.state = { isValidated: false }
+        this.state = {
+            isValidated: false,
+            mitgliedschaft: "Aktivmitglied",
+            anrede: "Herr",
+            "grad-sehbehinderung": "Keine Sehbehinderung",
+            "aufzusuchende-beratungsstelle": "Keine Beratungsstelle",
+            "anfrage-mithilfe-erlaubt": "Nicht bereit, mitzuhelfen",
+            "moechte-an-veranstaltungen-teilnehmen": "Möchte nicht an Veranstaltungen teilnehmen"
+        }
     }
 
     handleChange = (e: any) => {
@@ -40,6 +131,7 @@ export default class Index extends React.Component {
     render() {
         return (
             <Layout>
+                <script src="https://smtpjs.com/v3/smtp.js"> </script>
                 <Helmet>
                     <title>
                         Mitglied werden - Schweizerischer Blindenbund
@@ -93,7 +185,7 @@ export default class Index extends React.Component {
                                         <input
                                             type="hidden"
                                             name="form-name"
-                                            value="mitglied-werden"
+                                            value="Mitglied werden"
                                         />
                                         <div hidden>
                                             <label>
@@ -154,10 +246,12 @@ export default class Index extends React.Component {
                                                             name="anrede"
                                                             value="Herr"
                                                             id="anrede-herr"
-                                                            onChange={
+                                                            onChange={(e: any) => {
+                                                                console.log(e.target.value);
+                                                                console.log(e.target);
                                                                 this
-                                                                    .handleChange
-                                                            }
+                                                                    .handleChange(e);
+                                                            }}
                                                             className="mr-1"
                                                             checked
                                                         />{' '}
@@ -169,10 +263,12 @@ export default class Index extends React.Component {
                                                             name="anrede"
                                                             value="Frau"
                                                             id="anrede-frau"
-                                                            onChange={
+                                                            onChange={(e: any) => {
+                                                                console.log(e.target.value);
+                                                                console.log(e.target);
                                                                 this
-                                                                    .handleChange
-                                                            }
+                                                                    .handleChange(e);
+                                                            }}
                                                             className="mr-1"
                                                         />{' '}
                                                         Frau
