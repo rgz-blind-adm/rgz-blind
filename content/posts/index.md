@@ -15,9 +15,9 @@ import { PlayButton } from "./PlayButton"
 
 Das **Kochbuch der RGZ** ist nun erhältlich. Vergesst nicht, euch ein Exemplar zu sichern mit diesem **[Bestellformular](https://www.rgz-blind.ch/kochbuch-bestellen/)**.
 
+Test
+
 **Führungen im Landesmuseum**: Das Landesmuseum bietet neu regelmässig kostenlose Führungen an, bei denen jeweils maximal 3 sehbehinderte und blinde Menschen und deren Begleitpersonen teilnehmen können. Der Eintritt kostet 8 Franken (inklusive Führung und Begleitperson). Bei diesen Führungen wird viel Wert auf das taktile Erfahren gelegt und es gibt die Gelegenheit, Gegenstände des Museums mit den Händen zu ertasten, die sonst nicht berührt werden dürfen. 
 Weitere Informationen zu diesem tollen Angebot findet ihr direkt auf der Seite des **[Landesmuseums](https://www.landesmuseum.ch/de/zugaenglichkeit/fuehrungen-fuer-sehbehinderte)**. 
-
-T﻿est
 
 </SpeechOutput>
