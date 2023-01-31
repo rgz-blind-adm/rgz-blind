@@ -13,85 +13,55 @@ import { PlayButton } from "./PlayButton"
 
 **Leitbild-Motto des Schweizerischen Blindenbundes 2022:** Wo wir an Grenzen unserer Möglichkeiten stossen, suchen wir die Zusammenarbeit mit Fachpersonen.
 
-
-
-## Freitag, 17. Februar 2023
+### Freitag, 17. Februar 2023
 
 Besichtigung der „Radio Hall“ von SRF
 
- 
-
-## Samstag, 11. März 2023
+### Samstag, 11. März 2023
 
 GV im Hotel/Restaurant Landhus in Zürich-Seebach mit anschliessendem Konzert
 
- 
-
-## Freitag, 28. April 2023
+### Freitag, 28. April 2023
 
 Original Glarner Pasteten-Workshop in Engi (GL)
 
- 
-
-## Donnerstag, 11. Mai 2023
+### Donnerstag, 11. Mai 2023
 
 Online Zoom-Treffen zum Thema Assistenzbeitrag der IV
 
- 
-
-## Mittwoch, 24. Mai 2023
+### Mittwoch, 24. Mai 2023
 
 Besuch im Kinderzoo Rapperswil gemeinsam mit den SBV-Sektionen Graubünden und Zürich/Schaffhausen
 
- 
-
-## Samstag, 17. Juni 2023
+### Samstag, 17. Juni 2023
 
 Töff-Ausflug
 
 Ersatzdatum bei schlechtem Wetter: Samstag, 9. September 2023
 
- 
-
-## Samstag, 16. Juli 2023
+### Samstag, 16. Juli 2023
 
 Sommeranlass
 
- 
-
-## Samstag, 2. September 2023
+### Samstag, 2. September 2023
 
 Ausflug ins Emmental gemeinsam mit der RGB
 
- 
-
-## Sonntag, 15. Oktober 2023
+### Sonntag, 15. Oktober 2023
 
 Tag des Weissen Stockes
 
- 
-
-## Freitag, 20. bis Sonntag, 22. Oktober 2023
+### Freitag, 20. bis Sonntag, 22. Oktober 2023
 
 Wochenendausflug ins Wallis inkl. gemeinsamem Anlass mit der RGW
 
- 
-
-## Samstag, 4. November 2023
+### Samstag, 4. November 2023
 
 Herbstanlass im Hotel/Restaurant Landhus in Zürich-Seebach gemeinsam mit der SBV-Sektion Zürich/Schaffhausen
 
- 
-
-## Samstag, 2. Dezember 2023
+### Samstag, 2. Dezember 2023
 
 Jahresausklang
-
-
-
-
-
-
 
 Das **Kochbuch der RGZ** ist nun erhältlich. Vergesst nicht, euch ein Exemplar zu sichern mit diesem **[Bestellformular](https://www.rgz-blind.ch/kochbuch-bestellen/)**.
 
