@@ -10,7 +10,7 @@ const AktivitaetPagePreview = ({
     widgetFor: any
 }) => (
     <AktivitaetPostTemplate
-        title={moment(entry.getIn(['data', 'date'])).format('DD.MM.YYYY') + ' ' + entry.getIn(['data', 'title'])}
+        title={entry.getIn(['data', 'title'])}
         content={widgetFor('body')}
         date={moment(entry.getIn(['data', 'date'])).format('DD.MM.YYYY')}
         anmeldeformularanzeigen={entry.getIn([
