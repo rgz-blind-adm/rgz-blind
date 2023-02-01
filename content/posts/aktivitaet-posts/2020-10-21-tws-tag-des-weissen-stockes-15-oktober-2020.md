@@ -1,7 +1,6 @@
 ---
 templateKey: aktivitaet-post
 title: TWS - Tag des Weissen Stockes
-istArchiviert: false
 shortdescription: TWS - Tag des Weissen Stockes
 seodescription: RGZ TWS2020
 photogallery:
@@ -15,6 +14,7 @@ photogallery:
       image: /uploads/tws_hilfsmittel_augenblickfenster_3.jpg
       alt: "Hilfsmittel: Klebband, Lupenbrille und Bildschirmlesegerät"
 date: 2020-10-15T19:46:05.920Z
+istArchiviert: true
 anmeldeformularanzeigen: false
 ---
 import SpeechOutput from "gatsby-mdx-tts/SpeechOutput"
