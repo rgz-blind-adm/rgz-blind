@@ -1,10 +1,9 @@
 ---
-templateKey: aktivitaet-post
-title: Besichtigung der „Radio Hall“ von SRF
-shortdescription: Besichtigung der „Radio Hall“ von SRF
-seodescription: Besichtigung der „Radio Hall“ von SRF
-date: 2023-02-17T00:06:23.555Z
+title: GV im Hotel Restaurant Landhus in Zürich-Seebach mit anschliessendem Konzert
+shortdescription: GV im Hotel Restaurant Landhus in Zürich-Seebach mit anschliessendem Konzert
+seodescription: GV im Hotel Restaurant Landhus in Zürich-Seebach mit anschliessendem Konzert
+date: 2023-03-11T00:07:10.657Z
 istArchiviert: false
-anmeldeformularanzeigen: true
+anmeldeformularanzeigen: false
 ---
-Besichtigung der "Radio Hall" von SRF
+GV im Hotel Restaurant Landhus in Zürich-Seebach mit anschliessendem Konzert
