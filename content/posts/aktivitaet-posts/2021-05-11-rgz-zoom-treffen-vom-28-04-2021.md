@@ -8,7 +8,7 @@ photogallery:
       image: /uploads/leben.jpg
       alt: Acrylbild "Leben" von Hannelore Wartmann.
 date: 2021-04-28T18:15:02.048Z
-istArchiviert: false
+istArchiviert: true
 anmeldeformularanzeigen: false
 ---
 import SpeechOutput from "gatsby-mdx-tts/SpeechOutput"

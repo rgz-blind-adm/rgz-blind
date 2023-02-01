@@ -4,7 +4,7 @@ title: Jahresausklang 2021
 shortdescription: Jahresausklang vom 4.12.2021
 seodescription: Jahresausklang vom 4.12.2021
 date: 2021-12-04T15:04:31.253Z
-istArchiviert: false
+istArchiviert: true
 anmeldeformularanzeigen: true
 ---
 import SpeechOutput from "gatsby-mdx-tts/SpeechOutput"

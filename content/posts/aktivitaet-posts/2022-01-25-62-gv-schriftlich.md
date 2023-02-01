@@ -4,7 +4,7 @@ title: 62. GV - schriftlich
 shortdescription: "Die 62. GV der RGZ findet erneut schriftlich statt. "
 seodescription: 61. GV der RGZ.
 date: 2022-03-12T17:13:33.490Z
-istArchiviert: false
+istArchiviert: true
 anmeldeformularanzeigen: true
 ---
 import SpeechOutput from "gatsby-mdx-tts/SpeechOutput"

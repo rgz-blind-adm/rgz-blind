@@ -5,7 +5,7 @@ shortdescription: "Die DV des Blindenbundes wurde verschoben. "
 seodescription: DV des Blindenbundes verschoben auf den 28.08.2021
 photogallery: []
 date: 2021-08-28T18:34:59.899Z
-istArchiviert: false
+istArchiviert: true
 anmeldeformularanzeigen: false
 ---
 import SpeechOutput from "gatsby-mdx-tts/SpeechOutput"

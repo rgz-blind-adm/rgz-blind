@@ -4,7 +4,7 @@ title: RGZ-Zoom-Treffen vom 10.1.2022
 shortdescription: Die RGZ führte am 10. Januar 2022 ein Zoom-Treffen durch.
 seodescription: RGZ-Zoom-Treffen vom 10.1.2022
 date: 2022-01-10T10:19:28.964Z
-istArchiviert: false
+istArchiviert: true
 anmeldeformularanzeigen: false
 ---
 import SpeechOutput from "gatsby-mdx-tts/SpeechOutput"

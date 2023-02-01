@@ -4,7 +4,7 @@ title: Sommerfest
 shortdescription: RGZ-Sommerfest 21.8.2021
 seodescription: RGZ-Sommerfest 21.8.2021
 date: 2021-08-21T11:09:52.484Z
-istArchiviert: false
+istArchiviert: true
 anmeldeformularanzeigen: true
 ---
 import SpeechOutput from "gatsby-mdx-tts/SpeechOutput"

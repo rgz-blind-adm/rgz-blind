@@ -4,7 +4,7 @@ title: Ausserordentliche GV
 shortdescription: Ausserordentliche GV der RGZ. - Abnahme der neuen Statuten
 seodescription: Ausserordentliche GV der RGZ - Abnahme der neuen Statuten
 date: 2022-06-04T08:24:38.865Z
-istArchiviert: false
+istArchiviert: true
 anmeldeformularanzeigen: true
 ---
 import SpeechOutput from "gatsby-mdx-tts/SpeechOutput"
