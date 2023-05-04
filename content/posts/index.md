@@ -29,7 +29,7 @@ Original Glarner Pasteten-Workshop in Engi (GL)
 
 Online Zoom-Treffen zum Thema Assistenzbeitrag der IV
 
-### Mittwoch, 24. Mai 2023
+### Donnerstag, 25. Mai 2023
 
 Besuch im Kinderzoo Rapperswil gemeinsam mit den SBV-Sektionen Graubünden und Zürich/Schaffhausen
 
@@ -43,7 +43,7 @@ Ersatzdatum bei schlechtem Wetter: Samstag, 9. September 2023
 
 Sommeranlass
 
-### Samstag, 2. September 2023
+### Samstag, 23. September 2023
 
 Ausflug ins Emmental gemeinsam mit der RGB
 
