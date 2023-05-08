@@ -9,6 +9,8 @@ anmeldeformularanzeigen: true
 ---
 <!--StartFragment-->
 
+![](/uploads/28.4.flarner-pastete1.jpg)
+
 Workshop für Feinschmecker
 
 Wenn ich heutzutage Glarner Pastete höre, dann kommen bei mir immer Kindheitserinnerungen hoch. Gute Freunde von uns waren Bäcker in Filzbach und zu jedem Geburtstag bekamen wir eine Glarner Pastete. Allerdings habe ich immer nur die Stücke gern gehabt, welche mit Mandeln gefüllt waren.
