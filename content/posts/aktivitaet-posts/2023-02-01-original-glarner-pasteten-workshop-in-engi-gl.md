@@ -25,8 +25,8 @@ Natürlich liess ich es mir nicht nehmen, am nächsten Tag mit meiner Pastete zu
 
 Janka Reimmann
 
-![](/uploads/28.4.flarner-pastete1.jpg)
+![Entstehungsprozess einer Glarnerpastete](/uploads/28.4.flarner-pastete1.jpg)
 
-![](/uploads/28.4.glarner-pastete2.png)
+![zwei glückliche Teilnehmerinnen mit ihrer Glarnerpastete bevor sie in den Ofen geht](/uploads/28.4.glarner-pastete2.png)
 
 <!--EndFragment-->
