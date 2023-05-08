@@ -7,11 +7,7 @@ date: 2023-04-27T23:11:37.985Z
 istArchiviert: false
 anmeldeformularanzeigen: true
 ---
-![](/uploads/28.4.flarner-pastete1.jpg)
-
 <!--StartFragment-->
-
-![](/uploads/28.4.glarner-pastete2.png)
 
 Workshop für Feinschmecker
 
@@ -28,5 +24,9 @@ Während dem einige nun noch eine Führung erhielten, warteten meine Freundin un
 Natürlich liess ich es mir nicht nehmen, am nächsten Tag mit meiner Pastete zu meinen Eltern zu fahren, um mit ihnen meine Sonderanfertigung zu geniessen.
 
 Janka Reimmann
+
+![](/uploads/28.4.flarner-pastete1.jpg)
+
+![](/uploads/28.4.glarner-pastete2.png)
 
 <!--EndFragment-->
