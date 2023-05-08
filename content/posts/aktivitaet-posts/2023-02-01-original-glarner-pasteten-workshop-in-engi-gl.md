@@ -23,7 +23,7 @@ Während dem einige nun noch eine Führung erhielten, warteten meine Freundin un
 
 Natürlich liess ich es mir nicht nehmen, am nächsten Tag mit meiner Pastete zu meinen Eltern zu fahren, um mit ihnen meine Sonderanfertigung zu geniessen.
 
-Janka Reimmann
+**Janka Reimmann**
 
 
 
@@ -33,7 +33,7 @@ Janka Reimmann
 
 Ich habe mich sehr auf diesen Tag gefreut! Obwohl wir eine grosse Gruppe waren, war die Stimmung sehr gut. Uwe Walter mit seinem Team hat uns sehr gut geholfen. Die Informationen zur Herstellung waren sehr klar, so dass wir die Pasteten fast selbständig herstellen konnten. Dieser Work-Shop hat mich  sehr begeistert. Ich habe mit grosser Freude eine wunderbare Pastete heimgetragen. Liebes Team von der Feinbäckerei - ganz, ganz herzlichen Dank. Sie habe : Das unmögliche möglich gemacht!!!  
 
- Annemarie Heinze
+ **Annemarie Heinze**
 
 <!--EndFragment-->
 
@@ -53,7 +53,7 @@ Feinbäckerei degustieren.\
 Ich möchte dem Team von U. Walter nochmals ganz herzlich danken für\
 diesen interessanten Work-Shop der trotz grosser Beteiligung einfach toll. war.
 
-P﻿eter Heinze
+**P﻿eter Heinze**
 
 <!--EndFragment-->
 
