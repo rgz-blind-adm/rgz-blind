@@ -3,7 +3,7 @@ templateKey: aktivitaet-post
 title: Ausflug ins Glarnerland
 shortdescription: Ausflug ins Glarnerland am Samstag, 25.9.2021
 seodescription: Ausflug ins Glarnerland am Samstag, 25.9.2021
-date: 2021-09-25T13:12:54.648Z
+date: 2021-09-25
 istArchiviert: true
 anmeldeformularanzeigen: false
 ---

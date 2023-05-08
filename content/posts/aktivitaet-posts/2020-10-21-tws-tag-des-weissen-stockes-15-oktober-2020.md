@@ -13,7 +13,7 @@ photogallery:
   - bild:
       image: /uploads/tws_hilfsmittel_augenblickfenster_3.jpg
       alt: "Hilfsmittel: Klebband, Lupenbrille und Bildschirmlesegerät"
-date: 2020-10-15T19:46:05.920Z
+date: 2020-10-15
 istArchiviert: true
 anmeldeformularanzeigen: false
 ---

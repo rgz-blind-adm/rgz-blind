@@ -3,7 +3,7 @@ templateKey: aktivitaet-post
 title: 62. GV - schriftlich
 shortdescription: "Die 62. GV der RGZ findet erneut schriftlich statt. "
 seodescription: 61. GV der RGZ.
-date: 2022-03-12T17:13:33.490Z
+date: 2022-03-12
 istArchiviert: true
 anmeldeformularanzeigen: true
 ---

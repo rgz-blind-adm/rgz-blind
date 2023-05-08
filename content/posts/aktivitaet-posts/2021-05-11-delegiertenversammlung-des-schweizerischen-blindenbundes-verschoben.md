@@ -4,7 +4,7 @@ title: Delegiertenversammlung des Schweizerischen Blindenbundes - Verschoben
 shortdescription: "Die DV des Blindenbundes wurde verschoben. "
 seodescription: DV des Blindenbundes verschoben auf den 28.08.2021
 photogallery: []
-date: 2021-08-28T18:34:59.899Z
+date: 2021-08-28
 istArchiviert: true
 anmeldeformularanzeigen: false
 ---

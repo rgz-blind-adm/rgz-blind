@@ -7,7 +7,7 @@ photogallery:
   - bild:
       image: /uploads/leben.jpg
       alt: Acrylbild "Leben" von Hannelore Wartmann.
-date: 2021-04-28T18:15:02.048Z
+date: 2021-04-28
 istArchiviert: true
 anmeldeformularanzeigen: false
 ---

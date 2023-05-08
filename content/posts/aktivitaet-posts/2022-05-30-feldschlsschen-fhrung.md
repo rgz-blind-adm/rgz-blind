@@ -3,7 +3,7 @@ templateKey: aktivitaet-post
 title: Feldschlösschen Führung
 shortdescription: Führung durch die Brauerei Feldschlösschen mit der RGN, Freitag 24. Juni
 seodescription: Führung durch die Brauerei Feldschlösschen mit der RGN, Freitag 24. Juni
-date: 2022-06-24T12:47:22.804Z
+date: 2022-06-24
 istArchiviert: true
 anmeldeformularanzeigen: false
 ---

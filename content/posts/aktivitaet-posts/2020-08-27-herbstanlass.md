@@ -4,7 +4,7 @@ title: Herbstanlass - Abgesagt!
 istArchiviert: true
 shortdescription: Der traditionelle Herbstanlass im Landhus zusammen mit dem SBV.
 seodescription: Der traditionelle Herbstanlass im Landhus zusammen mit dem SBV.
-date: 2020-11-07T21:24:02.643Z
+date: 2020-11-07
 anmeldeformularanzeigen: false
 ---
 import SpeechOutput from "gatsby-mdx-tts/SpeechOutput"

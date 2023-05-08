@@ -3,7 +3,7 @@ templateKey: aktivitaet-post
 title: Jahresausklang 2021
 shortdescription: Jahresausklang vom 4.12.2021
 seodescription: Jahresausklang vom 4.12.2021
-date: 2021-12-04T15:04:31.253Z
+date: 2021-12-04
 istArchiviert: true
 anmeldeformularanzeigen: true
 ---

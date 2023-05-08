@@ -3,7 +3,7 @@ templateKey: aktivitaet-post
 title: Sommeranlass
 shortdescription: Sommeranlass
 seodescription: Sommeranlass
-date: 2023-07-15T23:25:27.971Z
+date: 2023-07-16
 istArchiviert: false
 anmeldeformularanzeigen: true
 ---

@@ -3,7 +3,7 @@ templateKey: aktivitaet-post
 title: Sommerfest
 shortdescription: RGZ-Sommerfest 21.8.2021
 seodescription: RGZ-Sommerfest 21.8.2021
-date: 2021-08-21T11:09:52.484Z
+date: 2021-08-21
 istArchiviert: true
 anmeldeformularanzeigen: true
 ---

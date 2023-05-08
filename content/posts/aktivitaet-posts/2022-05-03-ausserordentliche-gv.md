@@ -3,7 +3,7 @@ templateKey: aktivitaet-post
 title: Ausserordentliche GV
 shortdescription: Ausserordentliche GV der RGZ. - Abnahme der neuen Statuten
 seodescription: Ausserordentliche GV der RGZ - Abnahme der neuen Statuten
-date: 2022-06-04T08:24:38.865Z
+date: 2022-06-04
 istArchiviert: true
 anmeldeformularanzeigen: true
 ---

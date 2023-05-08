@@ -5,7 +5,7 @@ istArchiviert: true
 shortdescription: Führung durch die Stadt Zürich mit Erzählungen, Geräuschen und
   Düften. Sonntag, 20.9.2020, 15.30 Uhr
 seodescription: Erzählführung durch die Stadt Zürich mit Erzählungen, Geräuschen und Düften.
-date: 2020-09-20T11:44:01.058Z
+date: 2020-09-20
 anmeldeformularanzeigen: false
 ---
 import SpeechOutput from "gatsby-mdx-tts/SpeechOutput"

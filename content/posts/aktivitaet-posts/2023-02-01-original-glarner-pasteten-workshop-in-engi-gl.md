@@ -3,7 +3,7 @@ templateKey: aktivitaet-post
 title: Original Glarner Pasteten-Workshop in Engi (GL)
 shortdescription: Original Glarner Pasteten-Workshop in Engi (GL)
 seodescription: Original Glarner Pasteten-Workshop in Engi (GL)
-date: 2023-04-27T23:11:37.985Z
+date: 2023-04-28
 istArchiviert: false
 anmeldeformularanzeigen: true
 ---
@@ -25,15 +25,9 @@ Natürlich liess ich es mir nicht nehmen, am nächsten Tag mit meiner Pastete zu
 
 **Janka Reimmann**
 
-<!--StartFragment-->
-
 Ich habe mich sehr auf diesen Tag gefreut! Obwohl wir eine grosse Gruppe waren, war die Stimmung sehr gut. Uwe Walter mit seinem Team hat uns sehr gut geholfen. Die Informationen zur Herstellung waren sehr klar, so dass wir die Pasteten fast selbständig herstellen konnten. Dieser Work-Shop hat mich  sehr begeistert. Ich habe mit grosser Freude eine wunderbare Pastete heimgetragen. Liebes Team von der Feinbäckerei - ganz, ganz herzlichen Dank. Sie habe : Das unmögliche möglich gemacht!!!  
 
  **Annemarie Heinze**
-
-<!--EndFragment-->
-
-<!--StartFragment-->
 
 Ich möchte dem Team der Feinbäckerei in Engi herzlich danken, besonders Herrn U.Walter und Herr Frei.
 Mit der Unterstützung des Teams entstand  eine Glarner Pastete, die nach eigenen Ideen kreiert und verziert wurde.
@@ -44,10 +38,12 @@ Ich möchte dem Team von U. Walter nochmals ganz herzlich danken für diesen int
 
 **P﻿eter Heinze**
 
-<!--EndFragment-->
+
 
 ![Entstehungsprozess einer Glarnerpastete](/uploads/28.4.flarner-pastete1.jpg)
 
 ![zwei glückliche Teilnehmerinnen mit ihrer Glarnerpastete bevor sie in den Ofen geht](/uploads/28.4.glarner-pastete2.png)
+
+
 
 <!--EndFragment-->
