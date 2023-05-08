@@ -16,6 +16,9 @@ import { PlayButton } from "../PlayButton"
 <SpeechOutput id="vorstand-helen-zimmermann" customPlayButton={PlayButton}>
 
 # Ina Condrea
+## Bild
+
+![Foto von Ina Condrea](/uploads/whatsapp-image-2023-05-08-at-22.35.23.jpeg "Bild von Ina Condrea")
 
 
 
