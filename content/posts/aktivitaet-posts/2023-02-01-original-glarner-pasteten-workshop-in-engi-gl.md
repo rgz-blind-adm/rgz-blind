@@ -25,10 +25,6 @@ Natürlich liess ich es mir nicht nehmen, am nächsten Tag mit meiner Pastete zu
 
 **Janka Reimmann**
 
-
-
-
-
 <!--StartFragment-->
 
 Ich habe mich sehr auf diesen Tag gefreut! Obwohl wir eine grosse Gruppe waren, war die Stimmung sehr gut. Uwe Walter mit seinem Team hat uns sehr gut geholfen. Die Informationen zur Herstellung waren sehr klar, so dass wir die Pasteten fast selbständig herstellen konnten. Dieser Work-Shop hat mich  sehr begeistert. Ich habe mit grosser Freude eine wunderbare Pastete heimgetragen. Liebes Team von der Feinbäckerei - ganz, ganz herzlichen Dank. Sie habe : Das unmögliche möglich gemacht!!!  
@@ -37,21 +33,14 @@ Ich habe mich sehr auf diesen Tag gefreut! Obwohl wir eine grosse Gruppe waren, 
 
 <!--EndFragment-->
 
-
-
 <!--StartFragment-->
 
-Ich möchte dem Team der Feinbäckerei in Engi herzlich danken, besonders\
-Herrn U.Walter und Herr Frei.\
-\
-Mit der Unterstützung des Teams entstand  eine Glarner Pastete , die\
-nach eigenen Ideen kreiert und verziert wurde.\
-Nach der Backzeit von ca. einer Stunde konnte jeder/jede sein Exemplar\
-nach Hause mit nehmen. Es waren wunderschöne Exemplare.\
-Wärend der Backzeit konnten wir bei einem Kaffee die feinen Produkte der\
-Feinbäckerei degustieren.\
-Ich möchte dem Team von U. Walter nochmals ganz herzlich danken für\
-diesen interessanten Work-Shop der trotz grosser Beteiligung einfach toll. war.
+Ich möchte dem Team der Feinbäckerei in Engi herzlich danken, besonders Herrn U.Walter und Herr Frei.
+Mit der Unterstützung des Teams entstand  eine Glarner Pastete, die nach eigenen Ideen kreiert und verziert wurde.
+Nach der Backzeit von ca. einer Stunde konnte jeder/jede sein Exemplar nach Hause mit nehmen. Es waren wunderschöne Exemplare.
+Während der Backzeit konnten wir bei einem Kaffee die feinen Produkte der
+Feinbäckerei degustieren.
+Ich möchte dem Team von U. Walter nochmals ganz herzlich danken für diesen interessanten Work-Shop der trotz grosser Beteiligung einfach toll. war.
 
 **P﻿eter Heinze**
 
