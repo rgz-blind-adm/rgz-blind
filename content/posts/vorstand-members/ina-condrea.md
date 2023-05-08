@@ -8,7 +8,7 @@ seodescription: Vorstandsmitglied
 funktion: Vorstandsmitglied
 telefon: 076 347 07 13
 email: ina.condrea@rgz-blind.ch
-reihenfolge: 5
+reihenfolge: 7
 ---
 import SpeechOutput from "gatsby-mdx-tts/SpeechOutput"
 import { PlayButton } from "../PlayButton"
