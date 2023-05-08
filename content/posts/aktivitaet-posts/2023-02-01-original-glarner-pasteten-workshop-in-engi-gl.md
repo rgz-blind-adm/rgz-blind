@@ -9,7 +9,7 @@ anmeldeformularanzeigen: true
 ---
 <!--StartFragment-->
 
-![](/uploads/28.4.flarner-pastete1.jpg)
+![](/uploads/28.4.glarner-pastete2.png)
 
 Workshop für Feinschmecker
 
