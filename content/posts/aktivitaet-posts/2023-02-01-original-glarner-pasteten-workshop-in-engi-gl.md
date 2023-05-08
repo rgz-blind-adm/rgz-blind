@@ -27,6 +27,8 @@ Janka Reimmann
 
 
 
+
+
 <!--StartFragment-->
 
 Ich habe mich sehr auf diesen Tag gefreut! Obwohl wir eine grosse Gruppe waren, war die Stimmung sehr gut. Uwe Walter mit seinem Team hat uns sehr gut geholfen. Die Informationen zur Herstellung waren sehr klar, so dass wir die Pasteten fast selbständig herstellen konnten. Dieser Work-Shop hat mich  sehr begeistert. Ich habe mit grosser Freude eine wunderbare Pastete heimgetragen. Liebes Team von der Feinbäckerei - ganz, ganz herzlichen Dank. Sie habe : Das unmögliche möglich gemacht!!!  
@@ -34,6 +36,8 @@ Ich habe mich sehr auf diesen Tag gefreut! Obwohl wir eine grosse Gruppe waren, 
  Annemarie Heinze
 
 <!--EndFragment-->
+
+
 
 <!--StartFragment-->
 
