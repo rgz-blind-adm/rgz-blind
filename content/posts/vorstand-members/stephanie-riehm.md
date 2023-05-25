@@ -16,7 +16,7 @@ import { PlayButton } from "../PlayButton"
 <SpeechOutput id="vorstand-stephanie-riehm" customPlayButton={PlayButton}># Stephanie Riehm
 ## Bild
 
-![Foto von Stephanie Riehm](/uploads/whatsapp-image-2023-05-08-at-22.35.23.jpeg "Bild von Stephanie Riehm")
+![Foto von Stephanie Riehm](/uploads/img_3426.jpg "Bild von Stephanie Riehm")
 
 
 
