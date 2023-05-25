@@ -10,10 +10,7 @@ telefon: 079 676 57 31
 email: stephanie.riehm@rgz-blind.ch
 reihenfolge: 8
 ---
-import SpeechOutput from "gatsby-mdx-tts/SpeechOutput"
-import { PlayButton } from "../PlayButton"
 
-<SpeechOutput id="vorstand-stephanie-riehm" customPlayButton={PlayButton}>
 # Stephanie Riehm
 ## Bild
 
@@ -35,4 +32,3 @@ Telefon: 079 676 57 31](<tel:079 676 57 31>)
 
 E-Mail: [stephanie.riehm@rgz-blind.ch](mailto:stephanie.riehm@rgz-blind.ch)
 
-</SpeechOutput>
