@@ -28,7 +28,7 @@ In meiner Freizeit halte ich mich bevorzugt in der Natur auf. Eine weitere gross
 
 ## Kontakt
 
-Telefon: 079 676 57 31](<tel:079 676 57 31>)
+Telefon: 079 676 57 31
 
 E-Mail: [stephanie.riehm@rgz-blind.ch](mailto:stephanie.riehm@rgz-blind.ch)
 
