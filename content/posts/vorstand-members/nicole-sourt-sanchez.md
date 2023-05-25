@@ -19,7 +19,7 @@ import { PlayButton } from "../PlayButton"
 
 ## Bild
 
-![Bild von Nicole Sourt Sánchez](/uploads/portrait_nicole-sourt-sanchez.jpg "Bild von Nicole Sourt Sánchez")
+![Bild von Nicole Sourt Sánchez](/uploads/foto-nicole.jpg "Bild von Nicole Sourt Sánchez")
 
 ## Funktion
 
