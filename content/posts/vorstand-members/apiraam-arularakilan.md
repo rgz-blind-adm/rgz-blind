@@ -32,7 +32,7 @@ Ich lebe seit meiner frühen Kindheit mit einer Sehbehinderung mit Sehrest. Zurz
 
 ## Kontakt
 
-Telefon: [076 347 07 13](<tel:076 347 07 13>)
+
 
 E-Mail: [apiraam.arularakilana@rgz-blind.ch](mailto:apiraam.arularakilan@rgz-blind.ch)
 
