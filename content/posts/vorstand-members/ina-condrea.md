@@ -13,7 +13,7 @@ reihenfolge: 7
 import SpeechOutput from "gatsby-mdx-tts/SpeechOutput"
 import { PlayButton } from "../PlayButton"
 
-<SpeechOutput id="vorstand-helen-zimmermann" customPlayButton={PlayButton}>
+<SpeechOutput id="vorstand-ina-condrea" customPlayButton={PlayButton}>
 
 # Ina Condrea
 ## Bild
@@ -53,8 +53,8 @@ Vorhaben möglichst wirksam unterstützen zu können
 
 ## Kontakt
 
-Telefon: [079 512 06 79](<tel:079 512 06 79>)
+Telefon: [076 347 07 13](<tel:076 347 07 13>)
 
-E-Mail: [helene.zimmermann@rgz-blind.ch](mailto:helene.zimmermann@rgz-blind.ch)
+E-Mail: [ina.condrea@rgz-blind.ch](mailto:ina.condrea@rgz-blind.ch)
 
 </SpeechOutput>
