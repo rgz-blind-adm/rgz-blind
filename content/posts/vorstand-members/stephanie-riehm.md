@@ -13,7 +13,8 @@ reihenfolge: 8
 import SpeechOutput from "gatsby-mdx-tts/SpeechOutput"
 import { PlayButton } from "../PlayButton"
 
-<SpeechOutput id="vorstand-stephanie-riehm" customPlayButton={PlayButton}># Stephanie Riehm
+<SpeechOutput id="vorstand-stephanie-riehm" customPlayButton={PlayButton}>
+# Stephanie Riehm
 ## Bild
 
 ![Foto von Stephanie Riehm](/uploads/img_3426.jpg "Bild von Stephanie Riehm")
