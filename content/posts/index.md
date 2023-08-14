@@ -13,35 +13,7 @@ import { PlayButton } from "./PlayButton"
 
 **Leitbild-Motto des Schweizerischen Blindenbundes 2022:** Wo wir an Grenzen unserer Möglichkeiten stossen, suchen wir die Zusammenarbeit mit Fachpersonen.
 
-### Freitag, 17. Februar 2023
 
-Besichtigung der „Radio Hall“ von SRF
-
-### Samstag, 11. März 2023
-
-GV im Hotel/Restaurant Landhus in Zürich-Seebach mit anschliessendem Konzert
-
-### Freitag, 28. April 2023
-
-Original Glarner Pasteten-Workshop in Engi (GL)
-
-### Donnerstag, 11. Mai 2023
-
-Online Zoom-Treffen zum Thema Assistenzbeitrag der IV
-
-### Donnerstag, 25. Mai 2023
-
-Besuch im Kinderzoo Rapperswil gemeinsam mit den SBV-Sektionen Graubünden und Zürich/Schaffhausen
-
-### Samstag, 17. Juni 2023
-
-Töff-Ausflug
-
-Ersatzdatum bei schlechtem Wetter: Samstag, 9. September 2023
-
-### Samstag, 16. Juli 2023
-
-Sommeranlass
 
 ### Samstag, 23. September 2023
 
