@@ -5,6 +5,6 @@ shortdescription: Online Zoom-Treffen zum Thema Assistenzbeitrag der IV
 seodescription: Online Zoom-Treffen zum Thema Assistenzbeitrag der IV
 date: 2023-05-11
 istArchiviert: true
-anmeldeformularanzeigen: true
+anmeldeformularanzeigen: false
 ---
 Online Zoom-Treffen zum Thema Assistenzbeitrag der IV
