@@ -5,7 +5,7 @@ shortdescription: Original Glarner Pasteten-Workshop in Engi (GL)
 seodescription: Original Glarner Pasteten-Workshop in Engi (GL)
 date: 2023-04-28
 istArchiviert: true
-anmeldeformularanzeigen: true
+anmeldeformularanzeigen: false
 ---
 <!--StartFragment-->
 
