@@ -9,7 +9,7 @@ seodescription: Besuch im Kinderzoo Rapperswil gemeinsam mit den SBV-Sektionen
 photogallery: []
 date: 2023-05-25
 istArchiviert: true
-anmeldeformularanzeigen: true
+anmeldeformularanzeigen: false
 ---
 Besuch im Kinderzoo Rapperswil gemeinsam mit den SBV-Sektionen Graubünden und Zürich/Schaffhausen
 
