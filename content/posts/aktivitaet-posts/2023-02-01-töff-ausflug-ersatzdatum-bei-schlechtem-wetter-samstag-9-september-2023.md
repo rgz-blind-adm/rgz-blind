@@ -5,7 +5,7 @@ shortdescription: "Töff-Ausflug Ersatzdatum bei schlechtem Wetter: Samstag, 9. 
 seodescription: "Töff-Ausflug Ersatzdatum bei schlechtem Wetter: Samstag, 9. September 2023"
 date: 2023-06-17
 istArchiviert: false
-anmeldeformularanzeigen: true
+anmeldeformularanzeigen: false
 ---
 Töff-Ausflug Ersatzdatum bei schlechtem Wetter: Samstag, 9. September 2023
 
