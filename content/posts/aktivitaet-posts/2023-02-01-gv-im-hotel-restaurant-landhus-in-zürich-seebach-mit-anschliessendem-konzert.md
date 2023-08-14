@@ -4,7 +4,7 @@ title: GV im Hotel/Restaurant Landhus in Zürich-Seebach mit anschliessendem Kon
 shortdescription: GV im Hotel/Restaurant Landhus in Zürich-Seebach mit anschliessendem Konzert
 seodescription: GV im Hotel/Restaurant Landhus in Zürich-Seebach mit anschliessendem Konzert
 date: 2023-03-11
-istArchiviert: false
+istArchiviert: true
 anmeldeformularanzeigen: true
 ---
 GV im Hotel/Restaurant Landhus in Zürich-Seebach mit anschliessendem Konzert
