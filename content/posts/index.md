@@ -13,8 +13,6 @@ import { PlayButton } from "./PlayButton"
 
 **Leitbild-Motto des Schweizerischen Blindenbundes 2022:** Wo wir an Grenzen unserer Möglichkeiten stossen, suchen wir die Zusammenarbeit mit Fachpersonen.
 
-
-
 ### Samstag, 23. September 2023
 
 Ausflug ins Emmental gemeinsam mit der RGB
@@ -34,6 +32,8 @@ Herbstanlass im Hotel/Restaurant Landhus in Zürich-Seebach gemeinsam mit der SB
 ### Samstag, 2. Dezember 2023
 
 Jahresausklang
+
+
 
 Das **Kochbuch der RGZ** ist nun erhältlich. Vergesst nicht, euch ein Exemplar zu sichern mit diesem **[Bestellformular](https://www.rgz-blind.ch/kochbuch-bestellen/)**.
 
