@@ -56,7 +56,6 @@ export const AktivitaetPostTemplate = ({
             .then(() => navigate(form.getAttribute('action')))
             .catch((error) => alert(error))
     }
-//!istArchiviert
     return (
         <section className="section">
             {helmet || ''}
@@ -65,7 +64,7 @@ export const AktivitaetPostTemplate = ({
                     <div className="column is-10 is-offset-1">
                         <PostContent content={content} />
                         <PhotoGallery photogallery={photogallery} />
-                        {anmeldeformularanzeigen && true && (
+                        {anmeldeformularanzeigen && !istArchiviert && (
                             <div>
                                 <br />
                                 <h2 className="title is-size-2">
