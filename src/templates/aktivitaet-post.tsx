@@ -22,6 +22,7 @@ export const AktivitaetPostTemplate = ({
     title,
     date,
     anmeldeformularanzeigen,
+	istArchiviert,
     photogallery,
     helmet,
 }: {
@@ -30,6 +31,7 @@ export const AktivitaetPostTemplate = ({
     title: any
     date: any
     anmeldeformularanzeigen: any
+	istArchiviert: any
     photogallery?: any
     helmet?: any
 }) => {
