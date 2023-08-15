@@ -198,9 +198,8 @@ const AktivitaetPost = ({ data }: { data: any }) => {
                 title={post.frontmatter.title}
                 date={post.frontmatter.date}
                 photogallery={post.frontmatter.photogallery}
-                anmeldeformularanzeigen={
-                    post.frontmatter.anmeldeformularanzeigen
-                }
+                anmeldeformularanzeigen={post.frontmatter.anmeldeformularanzeigen}
+				istArchiviert={post.frontmatter.istArchiviert}
             />
         </Layout>
     )
