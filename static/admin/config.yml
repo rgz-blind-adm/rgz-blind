@@ -126,6 +126,13 @@ collections:
           - {label: "Template Key", name: "templateKey", widget: "hidden", default: "aktivitaeten-page"}
           - {label: "Title", name: "title", widget: "string"}
           - {label: "Body", name: "body", widget: "markdown"}
+      - file: "content/posts/aktivitaeten-archiv/index.md"
+        label: "Aktivitäten-Archiv"
+        name: "aktivitaetenArchiv"
+        fields:
+          - {label: "Template Key", name: "templateKey", widget: "hidden", default: "aktivitaeten-archiv-page"}
+          - {label: "Title", name: "title", widget: "string"}
+          - {label: "Body", name: "body", widget: "markdown"}          
       - file: "content/posts/vorstand/index.md"
         label: "Vorstand"
         name: "vorstand"
