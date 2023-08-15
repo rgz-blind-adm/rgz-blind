@@ -17,28 +17,28 @@ class AktivitaetArchivList extends React.Component<IProps, {}> {
             <Layout>
                 <Helmet>
                     <title>
-                        Aktivitäten - Schweizerischer Blindenbund Regionalgruppe
+                        Aktivitäten-Archiv - Schweizerischer Blindenbund Regionalgruppe
                         Zürich
                     </title>
                     <meta
                         name="description"
-                        content="Aktivitäten der Regionalgruppe Zürich des Schweizerischen Blindenbunds."
+                        content="Aktivitäten-Archiv der Regionalgruppe Zürich des Schweizerischen Blindenbunds."
                     />
-                    <meta property="og:title" content="Aktivitäten" />
+                    <meta property="og:title" content="Aktivitäten-Archiv" />
                     <meta
                         property="og:description"
-                        content="Aktivitäten der Regionalgruppe Zürich des Schweizerischen Blindenbunds."
+                        content="Aktivitäten-Archiv der Regionalgruppe Zürich des Schweizerischen Blindenbunds."
                     />
                     <meta
                         property="og:url"
-                        content="https://www.rgz-blind.ch/aktivitaeten/"
+                        content="https://www.rgz-blind.ch/aktivitaeten-archiv/"
                     />
                 </Helmet>
                 <section className="section">
                     <div className="container content">
                         <div className="columns">
                             <div className="column is-10 is-offset-1">
-                                <h1 className="title is-size-1">Aktivitäten</h1>
+                                <h1 className="title is-size-1">Aktivitäten-Archiv</h1>
                                 <h2>Anlässe</h2>
                                 {aktivitaeten &&
                                     aktivitaeten.map(
@@ -119,7 +119,7 @@ export default () => (
                     filter: {
                         frontmatter: {
                             templateKey: { eq: "aktivitaet-post" }
-                            istArchiviert: { eq: false }
+                            istArchiviert: { eq: true }
                         }
                     }
                 ) {
