@@ -63,7 +63,7 @@ export const AktivitaetPostTemplate = ({
                     <div className="column is-10 is-offset-1">
                         <PostContent content={content} />
                         <PhotoGallery photogallery={photogallery} />
-                        {anmeldeformularanzeigen && (
+                        {anmeldeformularanzeigen && !istArchiviert && (
                             <div>
                                 <br />
                                 <h2 className="title is-size-2">
