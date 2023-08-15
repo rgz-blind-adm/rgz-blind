@@ -7,7 +7,7 @@ interface IProps {
     data: any
 }
 
-class AktivitaetList extends React.Component<IProps, {}> {
+class AktivitaetArchivList extends React.Component<IProps, {}> {
     render() {
         const { data } = this.props
         const { edges: aktivitaeten } = data.aktivitaeten
@@ -113,7 +113,7 @@ class AktivitaetList extends React.Component<IProps, {}> {
 export default () => (
     <StaticQuery
         query={graphql`
-            query AktivitaetListQuery {
+            query AktivitaetArchivListQuery {
                 aktivitaeten: allMdx(
                     sort: { order: ASC, fields: [frontmatter___date] }
                     filter: {
@@ -158,6 +158,6 @@ export default () => (
                 }
             }
         `}
-        render={(data: any) => <AktivitaetList data={data} />}
+        render={(data: any) => <AktivitaetArchivList data={data} />}
     />
 )
