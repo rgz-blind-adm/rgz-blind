@@ -221,6 +221,7 @@ export const pageQuery = graphql`
                 title
                 seodescription
                 anmeldeformularanzeigen
+				istArchiviert
                 photogallery {
                     bild {
                         alt
