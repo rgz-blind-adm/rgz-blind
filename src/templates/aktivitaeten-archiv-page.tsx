@@ -115,7 +115,7 @@ export default () => (
         query={graphql`
             query AktivitaetArchivListQuery {
                 aktivitaeten: allMdx(
-                    sort: { order: ASC, fields: [frontmatter___date] }
+                    sort: { order: DESC, fields: [frontmatter___date] }
                     filter: {
                         frontmatter: {
                             templateKey: { eq: "aktivitaet-post" }
