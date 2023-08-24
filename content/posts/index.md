@@ -17,6 +17,10 @@ import { PlayButton } from "./PlayButton"
 
 Ausflug ins Emmental gemeinsam mit der RGB
 
+### Samstag, 30. September 2023
+
+Führung im Kunstzeughaus Rapperswil-Jona
+
 ### Sonntag, 15. Oktober 2023
 
 Tag des Weissen Stockes
@@ -32,8 +36,6 @@ Herbstanlass im Hotel/Restaurant Landhus in Zürich-Seebach gemeinsam mit der SB
 ### Samstag, 2. Dezember 2023
 
 Jahresausklang
-
-
 
 Das **Kochbuch der RGZ** ist nun erhältlich. Vergesst nicht, euch ein Exemplar zu sichern mit diesem **[Bestellformular](https://www.rgz-blind.ch/kochbuch-bestellen/)**.
 
