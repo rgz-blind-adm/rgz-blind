@@ -4,7 +4,7 @@ title: Sommeranlass
 shortdescription: Sommeranlass
 seodescription: Sommeranlass
 date: 2023-07-16
-istArchiviert: false
+istArchiviert: true
 anmeldeformularanzeigen: true
 ---
 Sommeranlass
