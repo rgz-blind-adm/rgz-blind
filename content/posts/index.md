@@ -11,7 +11,7 @@ import { PlayButton } from "./PlayButton"
 
 ## Aktuelles
 
-**Leitbild-Motto des Schweizerischen Blindenbundes 2022:** Wo wir an Grenzen unserer Möglichkeiten stossen, suchen wir die Zusammenarbeit mit Fachpersonen.
+**Leitbild-Motto des Schweizerischen Blindenbundes 2023:** Wo wir an Grenzen unserer Möglichkeiten stossen, suchen wir die Zusammenarbeit mit Fachpersonen.
 
 ### Samstag, 23. September 2023
 
