@@ -4,7 +4,7 @@ path: /kultur
 title: Kultur
 ---
 import SpeechOutput from "gatsby-mdx-tts/SpeechOutput"
-import { PlayButton } from "@/src/components/PlayButton"
+import { PlayButton } from "@/components/PlayButton"
 
 <SpeechOutput id="ueberuns-page-teil1" customPlayButton={PlayButton}>
 
