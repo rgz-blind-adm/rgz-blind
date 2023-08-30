@@ -4,7 +4,7 @@ import Layout from '../components/Layout'
 import Content, { HTMLContent } from '../components/Content'
 import { Helmet } from 'react-helmet'
 
-export const MithilfePageTemplate = ({
+export const KulturPageTemplate = ({
     title,
     content,
     contentComponent,
@@ -28,30 +28,30 @@ export const MithilfePageTemplate = ({
     )
 }
 
-const MithilfePage = ({ data }: { data: any }) => {
+const KulturPage = ({ data }: { data: any }) => {
     const { mdx: post } = data
 
     return (
         <Layout>
             <Helmet>
                 <title>
-                    Mithilfe - Schweizerischer Blindenbund Regionalgruppe Zürich
+                    Kultur - Schweizerischer Blindenbund Regionalgruppe Zürich
                 </title>
                 <meta
                     name="description"
-                    content="Mithilfe der Regionalgruppe Zürich des Schweizerischen Blindenbunds."
+                    content="Kultur der Regionalgruppe Zürich des Schweizerischen Blindenbunds."
                 />
-                <meta property="og:title" content="Mithilfe" />
+                <meta property="og:title" content="Kultur" />
                 <meta
                     property="og:description"
-                    content="Mithilfe der Regionalgruppe Zürich des Schweizerischen Blindenbunds."
+                    content="Kultur der Regionalgruppe Zürich des Schweizerischen Blindenbunds."
                 />
                 <meta
                     property="og:url"
-                    content="https://www.rgz-blind.ch/mithilfe/"
+                    content="https://www.rgz-blind.ch/kultur/"
                 />
             </Helmet>
-            <MithilfePageTemplate
+            <KulturPageTemplate
                 contentComponent={HTMLContent}
                 title={post.frontmatter.title}
                 content={post.body}
@@ -60,10 +60,10 @@ const MithilfePage = ({ data }: { data: any }) => {
     )
 }
 
-export default MithilfePage
+export default KulturPage
 
-export const mithilfePageQuery = graphql`
-    query MithilfePage($id: String!) {
+export const kulturPageQuery = graphql`
+    query KulturPage($id: String!) {
         mdx(id: { eq: $id }) {
             body
             frontmatter {

@@ -4,7 +4,7 @@ import Layout from '../components/Layout'
 import Content, { HTMLContent } from '../components/Content'
 import { Helmet } from 'react-helmet'
 
-export const MithilfePageTemplate = ({
+export const SportFreizeitPageTemplate = ({
     title,
     content,
     contentComponent,
@@ -28,30 +28,30 @@ export const MithilfePageTemplate = ({
     )
 }
 
-const MithilfePage = ({ data }: { data: any }) => {
+const SportFreizeitPage = ({ data }: { data: any }) => {
     const { mdx: post } = data
 
     return (
         <Layout>
             <Helmet>
                 <title>
-                    Mithilfe - Schweizerischer Blindenbund Regionalgruppe Zürich
+                    SportFreizeit - Schweizerischer Blindenbund Regionalgruppe Zürich
                 </title>
                 <meta
                     name="description"
-                    content="Mithilfe der Regionalgruppe Zürich des Schweizerischen Blindenbunds."
+                    content="SportFreizeit der Regionalgruppe Zürich des Schweizerischen Blindenbunds."
                 />
-                <meta property="og:title" content="Mithilfe" />
+                <meta property="og:title" content="SportFreizeit" />
                 <meta
                     property="og:description"
-                    content="Mithilfe der Regionalgruppe Zürich des Schweizerischen Blindenbunds."
+                    content="SportFreizeit der Regionalgruppe Zürich des Schweizerischen Blindenbunds."
                 />
                 <meta
                     property="og:url"
-                    content="https://www.rgz-blind.ch/mithilfe/"
+                    content="https://www.rgz-blind.ch/sportFreizeit/"
                 />
             </Helmet>
-            <MithilfePageTemplate
+            <SportFreizeitPageTemplate
                 contentComponent={HTMLContent}
                 title={post.frontmatter.title}
                 content={post.body}
@@ -60,10 +60,10 @@ const MithilfePage = ({ data }: { data: any }) => {
     )
 }
 
-export default MithilfePage
+export default SportFreizeitPage
 
-export const mithilfePageQuery = graphql`
-    query MithilfePage($id: String!) {
+export const sportFreizeitPageQuery = graphql`
+    query SportFreizeitPage($id: String!) {
         mdx(id: { eq: $id }) {
             body
             frontmatter {
