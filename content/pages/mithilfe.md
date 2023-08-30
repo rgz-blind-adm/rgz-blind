@@ -4,7 +4,7 @@ path: /mithilfe
 title: Mithilfe
 ---
 import SpeechOutput from "gatsby-mdx-tts/SpeechOutput"
-import { PlayButton } from "/src/components/PlayButton"
+import { PlayButton } from "@/src/components/PlayButton"
 
 <SpeechOutput id="ueberuns-page-teil2" customPlayButton={PlayButton}>
 
