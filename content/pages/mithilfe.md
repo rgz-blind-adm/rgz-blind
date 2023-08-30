@@ -1,7 +1,7 @@
 ---
 templateKey: mithilfe-page
 path: /mithilfe
-title: Mithilfe 1
+title: Mithilfe
 ---
 import SpeechOutput from "gatsby-mdx-tts/SpeechOutput"
 import { PlayButton } from "../PlayButton"
