@@ -177,6 +177,7 @@ module.exports = {
                 siteUrl: `https://www.rgz-blind.ch`,
             },
         },
+        'gatsby-plugin-root-import',
         'gatsby-plugin-netlify', // make sure to keep it last in the array
     ],
 }
