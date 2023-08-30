@@ -208,23 +208,23 @@ collections:
           - {label: "Title", name: "title", widget: "string"}
           - {label: "Body", name: "body", widget: "markdown"}
       - file: "content/pages/mithilfe.md"
-        label: "Über uns"
+        label: "Mithilfe"
         name: "mithilfe"
         fields:
-          - {label: "Template Key", name: "templateKey", widget: "hidden", default: "ueberuns-page"}
+          - {label: "Template Key", name: "templateKey", widget: "hidden", default: "mithilfe-page"}
           - {label: "Title", name: "title", widget: "string"}
           - {label: "Body", name: "body", widget: "markdown"}
       - file: "content/pages/kultur.md"
-        label: "Über uns"
+        label: "Kultur"
         name: "kultur"
         fields:
-          - {label: "Template Key", name: "templateKey", widget: "hidden", default: "ueberuns-page"}
+          - {label: "Template Key", name: "templateKey", widget: "hidden", default: "kultur-page"}
           - {label: "Title", name: "title", widget: "string"}
           - {label: "Body", name: "body", widget: "markdown"}
       - file: "content/pages/sport_und_freizeit.md"
-        label: "Über uns"
+        label: "Sport und Freizeit"
         name: "sport_und_freizeit"
         fields:
-          - {label: "Template Key", name: "templateKey", widget: "hidden", default: "ueberuns-page"}
+          - {label: "Template Key", name: "templateKey", widget: "hidden", default: "sport-und-freizeit-page"}
           - {label: "Title", name: "title", widget: "string"}
           - {label: "Body", name: "body", widget: "markdown"}
