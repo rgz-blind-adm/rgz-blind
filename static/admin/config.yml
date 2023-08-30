@@ -91,16 +91,16 @@ collections:
       - {label: "Suchmaschine Beschreibung", name: "seodescription", widget: "string"}
       - {label: "body", name: "body", widget: "markdown"}
 
-  - name: "adventskalender-tuerchen"
-    label: "Adventskalender Türchen"
-    folder: "content/posts/projekte/adventskalender-tuerchen"
-    create: true
-    fields:        
-      - {label: "Template Key", name: "templateKey", widget: "hidden", default: "adventskalender-tuerchen"}
-      - {label: "Title", name: "title", widget: "string"}
-      - {label: "Tag", name: "tag", widget: "number", value_type: "int", min: 1, max: 24}
-      - {label: "Bild", name: "bild", widget: object, fields: [{label: Image, name: image, widget: image}, {label: Alt, name: alt, widget: string}]}
-      - {label: "body", name: "body", widget: "markdown"}
+  # - name: "adventskalender-tuerchen"
+  #   label: "Adventskalender Türchen"
+  #   folder: "content/posts/projekte/adventskalender-tuerchen"
+  #   create: true
+  #   fields:        
+  #     - {label: "Template Key", name: "templateKey", widget: "hidden", default: "adventskalender-tuerchen"}
+  #     - {label: "Title", name: "title", widget: "string"}
+  #     - {label: "Tag", name: "tag", widget: "number", value_type: "int", min: 1, max: 24}
+  #     - {label: "Bild", name: "bild", widget: object, fields: [{label: Image, name: image, widget: image}, {label: Alt, name: alt, widget: string}]}
+  #     - {label: "body", name: "body", widget: "markdown"}
 
   - name: "pages"
     label: "Pages"
@@ -165,20 +165,20 @@ collections:
           - {label: "Title", name: "title", widget: "string"}
           - {label: "Fotogallerie", name: "photogallery", widget: "list", field: {label: "Bild", name: "bild", widget: object, fields: [{label: Image, name: image, widget: image}, {label: Alt, name: alt, widget: string}]}}
           - {label: "Body", name: "body", widget: "markdown"}      
-      - file: "content/posts/projekte/adventskalender/index.md"
-        label: "Adventskalender"
-        name: "adventskalender"
-        fields:
-          - {label: "Template Key", name: "templateKey", widget: "hidden", default: "adventskalender"}
-          - {label: "Title", name: "title", widget: "string"}
-          - {label: "Body", name: "body", widget: "markdown"}
-      - file: "content/posts/projekte/adventskalender-2021/index.md"
-        label: "Adventskalender 2021"
-        name: "adventskalender-2021"
-        fields:
-          - {label: "Template Key", name: "templateKey", widget: "hidden", default: "adventskalender-2021"}
-          - {label: "Title", name: "title", widget: "string"}
-          - {label: "Body", name: "body", widget: "markdown"}
+      # - file: "content/posts/projekte/adventskalender/index.md"
+      #   label: "Adventskalender"
+      #   name: "adventskalender"
+      #   fields:
+      #     - {label: "Template Key", name: "templateKey", widget: "hidden", default: "adventskalender"}
+      #     - {label: "Title", name: "title", widget: "string"}
+      #     - {label: "Body", name: "body", widget: "markdown"}
+      # - file: "content/posts/projekte/adventskalender-2021/index.md"
+      #   label: "Adventskalender 2021"
+      #   name: "adventskalender-2021"
+      #   fields:
+      #     - {label: "Template Key", name: "templateKey", widget: "hidden", default: "adventskalender-2021"}
+      #     - {label: "Title", name: "title", widget: "string"}
+      #     - {label: "Body", name: "body", widget: "markdown"}
       - file: "content/posts/impressum/index.md"
         label: "Impressum"
         name: "impressum"
