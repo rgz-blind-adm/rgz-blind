@@ -4,11 +4,11 @@ path: /kultur
 title: Kultur
 ---
 import SpeechOutput from "gatsby-mdx-tts/SpeechOutput"
-import { PlayButton } from "../PlayButton"
+import { PlayButton } from "/src/components/PlayButton"
 
 <SpeechOutput id="ueberuns-page-teil1" customPlayButton={PlayButton}>
 
-# Über uns
+# Über uns Beispieltext
 
 Die Regionalgruppe Zürich (RGZ) ist eine der fünf Regionalgruppen des Schweizerischen Blindenbundes (SBb). Sie ist regionale Anlaufstelle in einem weitläufigen Gebiet, von Zürich bis nach Schaffhausen, Teile der Zentralschweiz, über die Linthebene bis ins Glarnerland und darüber hinaus. 
 
