@@ -1,7 +1,7 @@
 import React from 'react'
 import { Link, graphql } from 'gatsby'
-import Content, { HTMLContent } from '../components/Content'
-import Layout from '../components/Layout'
+import Content, { HTMLContent } from 'components/Content'
+import Layout from 'components/Layout'
 import { Helmet } from 'react-helmet'
 import { GatsbyImage } from 'gatsby-plugin-image'
 

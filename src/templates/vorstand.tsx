@@ -1,9 +1,9 @@
 import React from "react";
 import { Helmet } from "react-helmet";
 import { graphql } from "gatsby";
-import Layout from "../components/Layout";
-import Content, { HTMLContent } from "../components/Content";
-import FacebookMetadata from "../components/FacebookMetadata";
+import Layout from "components/Layout";
+import Content, { HTMLContent } from "components/Content";
+import FacebookMetadata from "components/FacebookMetadata";
 
 export const VorstandTemplate = ({
     content,

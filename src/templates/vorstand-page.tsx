@@ -1,8 +1,8 @@
 import React from 'react'
 import { graphql } from 'gatsby'
-import Layout from '../components/Layout'
+import Layout from 'components/Layout'
 import { Helmet } from 'react-helmet'
-import VorstandMember from '../components/VorstandMember'
+import VorstandMember from 'components/VorstandMember'
 
 const VorstandPage = ({ data }: { data: any }) => {
     const { edges: members } = data.allMdx

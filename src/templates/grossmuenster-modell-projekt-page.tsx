@@ -1,9 +1,9 @@
 import React from 'react'
 import { graphql } from 'gatsby'
-import Layout from '../components/Layout'
-import Content, { HTMLContent } from '../components/Content'
+import Layout from 'components/Layout'
+import Content, { HTMLContent } from 'components/Content'
 import { Helmet } from 'react-helmet'
-import { PhotoGallery } from '../components/PhotoGallery'
+import { PhotoGallery } from 'components/PhotoGallery'
 
 export const GrossmuensterModellPageTemplate = ({
     title,

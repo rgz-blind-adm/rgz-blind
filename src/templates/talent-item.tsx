@@ -1,9 +1,9 @@
 import React from 'react'
 import { Helmet } from 'react-helmet'
 import { graphql } from 'gatsby'
-import Layout from '../components/Layout'
-import Content, { HTMLContent } from '../components/Content'
-import { PhotoGallery } from '../components/PhotoGallery'
+import Layout from 'components/Layout'
+import Content, { HTMLContent } from 'components/Content'
+import { PhotoGallery } from 'components/PhotoGallery'
 
 export const TalentItemTemplate = ({
     content,

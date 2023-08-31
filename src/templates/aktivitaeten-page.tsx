@@ -1,6 +1,6 @@
 import React from 'react'
 import { Link, graphql, StaticQuery } from 'gatsby'
-import Layout from '../components/Layout'
+import Layout from 'components/Layout'
 import { Helmet } from 'react-helmet'
 
 interface IProps {

@@ -1,6 +1,6 @@
 import React from 'react'
 import { graphql, Link } from 'gatsby'
-import Layout from '../components/Layout'
+import Layout from 'components/Layout'
 import { Helmet } from 'react-helmet'
 
 const KochrezepteProjektPage = ({ data }: { data: any }) => {

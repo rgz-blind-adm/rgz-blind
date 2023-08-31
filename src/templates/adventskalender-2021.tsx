@@ -1,8 +1,8 @@
 import React, { useState } from 'react'
 import { graphql } from 'gatsby'
 import { navigate } from 'gatsby-link'
-import Layout from '../components/Layout'
-import Content, { HTMLContent } from '../components/Content'
+import Layout from 'components/Layout'
+import Content, { HTMLContent } from 'components/Content'
 import { Helmet } from 'react-helmet'
 
 function encode(data: any) {

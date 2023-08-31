@@ -1,8 +1,8 @@
 import React from 'react'
 import { graphql } from 'gatsby'
-import Layout from '../components/Layout'
+import Layout from 'components/Layout'
 import { Helmet } from 'react-helmet'
-import { AdventskalenderTuerchen } from '../components/AdventskalenderTuerchen'
+import { AdventskalenderTuerchen } from 'components/AdventskalenderTuerchen'
 
 export const Adventskalender2020PageTemplate = ({
     tuerchen,

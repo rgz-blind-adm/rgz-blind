@@ -2,10 +2,10 @@ import React from 'react'
 import { Helmet } from 'react-helmet'
 import { graphql } from 'gatsby'
 import { navigate } from 'gatsby-link'
-import Layout from '../components/Layout'
+import Layout from 'components/Layout'
 import { useState } from 'react'
-import Content, { HTMLContent } from '../components/Content'
-import { PhotoGallery } from '../components/PhotoGallery'
+import Content, { HTMLContent } from 'components/Content'
+import { PhotoGallery } from 'components/PhotoGallery'
 
 function encode(data: any) {
     return Object.keys(data)

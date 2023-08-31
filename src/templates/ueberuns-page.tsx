@@ -1,7 +1,7 @@
 import React from 'react'
 import { graphql } from 'gatsby'
-import Layout from '../components/Layout'
-import Content, { HTMLContent } from '../components/Content'
+import Layout from 'components/Layout'
+import Content, { HTMLContent } from 'components/Content'
 import { Helmet } from 'react-helmet'
 
 export const UeberUnsPageTemplate = ({
