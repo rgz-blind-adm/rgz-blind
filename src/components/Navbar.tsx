@@ -90,6 +90,7 @@ const Navbar = class extends React.Component<{}, IState> {
                                 </Link>
                                 <Link className="navbar-item" to="/mitglied-werden/">
                                     Mitglied werden
+                                </Link>    
                                 <Link className="navbar-item" to="/mithilfe/">
                                     Mithilfe
                                 </Link>
