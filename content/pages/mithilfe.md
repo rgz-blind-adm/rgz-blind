@@ -8,15 +8,16 @@ import { PlayButton } from "components/PlayButton"
 
 <SpeechOutput id="ueberuns-page-teil2" customPlayButton={PlayButton}>
 
-## W﻿ir nehmen gerne Hilfe an! 
+## W﻿ir nehmen gerne Hilfe an!
 
 * A﻿nlässe 
 * B﻿egleitung zu Anlässen
 * A﻿dministratives 
-* O﻿rganisatorisches
-* W﻿erbung und Kommunikation
-* i﻿ndividuelle Unterstützung
+* Organisatorisches
+* Werbung und Kommunikation
+* individuelle Unterstützung
+* Austausch mit Betroffenen
 
-S﻿ollten Sie Interesse haben, mitzuwirken und uns in einem oder mehreren dieser Bereiche zu unterstützen, zögern Sie nicht mit uns Kontakt aufzunehmen. Wir freuen uns auf Sie! 
+Sollten Sie Interesse haben, mitzuwirken und uns in einem oder mehreren dieser Bereiche zu unterstützen, zögern Sie nicht mit uns Kontakt aufzunehmen. Wir freuen uns auf Sie! 
 
 </SpeechOutput>
