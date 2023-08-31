@@ -16,8 +16,7 @@ import { PlayButton } from "components/PlayButton"
 * **Reparatur von Brailleschreibmaschinen:**
   Nach über 50 Jahren Tätigkeit beendet Herr Zangerl, Büromaschinen in St. Gallen, die Reparaturen für Braillemaschinen. Ab sofort werden die Reparaturen durch den SZBLIND vorgenommen.\
   Die Braillemaschinen können an folgende Adresse gesandt werden: SZBLIND, Niederlenzer Kirchweg 1, 5600 Lenzburg.  
-* **[Inclusion handicap](https://www.inclusion-handicap.ch/):** Inclusion Handicap ist die vereinte Stimme der 1.7 Millionen Menschen mit Behinderungen in der Schweiz. Der Dachverband der Behindertenorganisationen setzt sich für Inklusion und den Schutz der Rechte und Würde aller Menschen mit Behinderungen ein.
-
+* **[Inclusion Handicap](https://www.inclusion-handicap.ch/):** Inclusion Handicap ist die vereinte Stimme der 1.7 Millionen Menschen mit Behinderungen in der Schweiz. Der Dachverband der Behindertenorganisationen setzt sich für Inklusion und den Schutz der Rechte und Würde aller Menschen mit Behinderungen ein.
 
 ## Partner
 
