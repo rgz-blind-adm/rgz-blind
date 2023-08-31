@@ -5,7 +5,7 @@ kategorie: 1. Vorspeisen, Suppen und Salate
 seodescription: Gerstensuppe Edelweiss
 ---
 import SpeechOutput from "gatsby-mdx-tts/SpeechOutput"
-import { PlayButton } from "../../PlayButton"
+import { PlayButton } from components/PlayButton"
 
 <SpeechOutput id="kochrezept-andres-denzler-gerstensuppe-edelweiss" customPlayButton={PlayButton}>
 

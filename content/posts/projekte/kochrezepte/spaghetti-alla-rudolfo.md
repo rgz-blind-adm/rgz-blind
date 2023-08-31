@@ -5,7 +5,7 @@ kategorie: 2. Hauptspeisen
 seodescription: Spaghetti alla Rudolfo
 ---
 import SpeechOutput from "gatsby-mdx-tts/SpeechOutput"
-import { PlayButton } from "../../PlayButton"
+import { PlayButton } from components/PlayButton"
 
 <SpeechOutput id="kochrezept-helene-zimmermann-spaghetti-alla-rodolpho" customPlayButton={PlayButton}>
 

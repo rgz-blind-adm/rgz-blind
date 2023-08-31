@@ -5,7 +5,7 @@ kategorie: 3. Dessert
 seodescription: Zitronencreme
 ---
 import SpeechOutput from "gatsby-mdx-tts/SpeechOutput"
-import { PlayButton } from "../../PlayButton"
+import { PlayButton } from components/PlayButton"
 
 <SpeechOutput id="kochrezept-annemarie-heinze-irenes-zitronencreme" customPlayButton={PlayButton}>
 

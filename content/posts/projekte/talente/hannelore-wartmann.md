@@ -34,7 +34,7 @@ photogallery:
         Hergestellt aus Gips und Stoff.
 ---
 import SpeechOutput from "gatsby-mdx-tts/SpeechOutput"
-import { PlayButton } from "../../PlayButton"
+import { PlayButton } from components/PlayButton"
 
 <SpeechOutput id="talent-hannelore-wartmann" customPlayButton={PlayButton}>
 

@@ -11,7 +11,7 @@ email: ina.condrea@rgz-blind.ch
 reihenfolge: 7
 ---
 import SpeechOutput from "gatsby-mdx-tts/SpeechOutput"
-import { PlayButton } from "../PlayButton"
+import { PlayButton } from components/PlayButton"
 
 <SpeechOutput id="vorstand-ina-condrea" customPlayButton={PlayButton}>
 
@@ -24,7 +24,8 @@ import { PlayButton } from "../PlayButton"
 
 ## Funktion
 
-Vorstandsmitglied
+
+Vorstandsmitglied
 
 ## Kurzportrait
 Die Arbeit mit Menschen war und ist weiterhin eine der schönsten
@@ -33,7 +34,8 @@ Herausforderungen für mich
 und Herausforderung ist ein Begriff, den
 ich als begeisterte Sportliebhaberin von meinem Alltag nicht
 wegdenken
-kann.
+kann
+.
 
 Unschwer zu erahnen, dass ich somit sehr schnell eine Brücke zur RGZ
 und den Tätigkeiten dort schlagen konnte, obwohl ich sehend bin. Die

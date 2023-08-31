@@ -5,7 +5,7 @@ kategorie: 2. Hauptspeisen
 seodescription: Kalbs- oder Schweinsmedaillon auf Tomatenbeet von Manuela Denzler
 ---
 import SpeechOutput from "gatsby-mdx-tts/SpeechOutput"
-import { PlayButton } from "../../PlayButton"
+import { PlayButton } from components/PlayButton"
 
 <SpeechOutput id="kochrezept-manuela-denzler-kalbs-schweinsmedaillon-tomatenbeet" customPlayButton={PlayButton}>
 

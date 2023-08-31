@@ -25,7 +25,7 @@ photogallery:
       alt: Monotype 2, Gelplattenabdruck mit Acrylfarbe. Aussenmass 21x30cm.
 ---
 import SpeechOutput from "gatsby-mdx-tts/SpeechOutput"
-import { PlayButton } from "../../PlayButton"
+import { PlayButton } from components/PlayButton"
 
 <SpeechOutput id="talent-erika-mueller" customPlayButton={PlayButton}>
 

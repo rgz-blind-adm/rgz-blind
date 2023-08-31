@@ -5,7 +5,7 @@ kategorie: 2. Hauptspeisen
 seodescription: Ein Originalrezept für einen einfachen Fischeintopf von Walter Schmutz.
 ---
 import SpeechOutput from "gatsby-mdx-tts/SpeechOutput"
-import { PlayButton } from "../../PlayButton"
+import { PlayButton } from components/PlayButton"
 
 <SpeechOutput id="kochrezept-walter-schmutz-fischeintopf" customPlayButton={PlayButton}>
 

@@ -11,7 +11,7 @@ email: stephanie.riehm@rgz-blind.ch
 reihenfolge: 8
 ---
 import SpeechOutput from "gatsby-mdx-tts/SpeechOutput"
-import { PlayButton } from "../PlayButton"
+import { PlayButton } from components/PlayButton"
 
 <SpeechOutput id="vorstand-stephanie-riehm" customPlayButton={PlayButton}>
 # Stephanie Riehm
@@ -23,7 +23,8 @@ import { PlayButton } from "../PlayButton"
 
 ## Funktion
 
-Vorstandsmitglied
+
+Vorstandsmitglied
 
 ## Kurzportrait
 

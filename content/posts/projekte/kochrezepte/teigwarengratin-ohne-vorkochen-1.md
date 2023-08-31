@@ -5,7 +5,7 @@ kategorie: 2. Hauptspeisen
 seodescription: Teigwarengratin ohne Vorkochen von Philippe Berthoud
 ---
 import SpeechOutput from "gatsby-mdx-tts/SpeechOutput"
-import { PlayButton } from "../../PlayButton"
+import { PlayButton } from components/PlayButton"
 
 <SpeechOutput id="kochrezept-liliane-schweizer-teigwarengratin-ohne-vorkochen" customPlayButton={PlayButton}>
 

@@ -5,7 +5,7 @@ kategorie: 2. Hauptspeisen
 seodescription: Ein Rezept für ein Appenzeller Cordon Bleu von Klaus Marthy.
 ---
 import SpeechOutput from "gatsby-mdx-tts/SpeechOutput"
-import { PlayButton } from "../../PlayButton"
+import { PlayButton } from components/PlayButton"
 
 <SpeechOutput id="kochrezept-klaus-marthy-appenzeller-cordon-bleu" customPlayButton={PlayButton}>
 

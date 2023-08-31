@@ -11,7 +11,7 @@ email: caroline.kobler@rgz-blind.ch
 reihenfolge: 5
 ---
 import SpeechOutput from "gatsby-mdx-tts/SpeechOutput"
-import { PlayButton } from "../PlayButton"
+import { PlayButton } from components/PlayButton"
 
 <SpeechOutput id="vorstand-caroline-kobler" customPlayButton={PlayButton}>
 

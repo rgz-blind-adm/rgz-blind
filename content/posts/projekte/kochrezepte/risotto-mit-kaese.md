@@ -5,7 +5,7 @@ kategorie: 2. Hauptspeisen
 seodescription: Risotto mit Käse
 ---
 import SpeechOutput from "gatsby-mdx-tts/SpeechOutput"
-import { PlayButton } from "../../PlayButton"
+import { PlayButton } from components/PlayButton"
 
 <SpeechOutput id="kochrezept-helene-zimmermann-risotto-mit-kaese" customPlayButton={PlayButton}>
 

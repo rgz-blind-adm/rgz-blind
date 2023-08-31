@@ -5,7 +5,7 @@ kategorie: 3. Dessert
 seodescription: Grundrezept für einen saisonalen Früchtekuchen
 ---
 import SpeechOutput from "gatsby-mdx-tts/SpeechOutput"
-import { PlayButton } from "../../PlayButton"
+import { PlayButton } from components/PlayButton"
 
 <SpeechOutput id="kochrezept-fruechtekuchen-martina-schweizer" customPlayButton={PlayButton}>
 

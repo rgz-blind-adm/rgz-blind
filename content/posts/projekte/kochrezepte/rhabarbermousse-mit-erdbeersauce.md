@@ -6,7 +6,7 @@ seodescription: Rhabarbermousse mit Erdbeersauce - ein Rezept aus der Kochschule
   von Jeannine Ulrich
 ---
 import SpeechOutput from "gatsby-mdx-tts/SpeechOutput"
-import { PlayButton } from "../../PlayButton"
+import { PlayButton } from components/PlayButton"
 
 <SpeechOutput id="kochrezept-jeannine-ulrich-rhabarbermousse-erdbeersauce" customPlayButton={PlayButton}>
 

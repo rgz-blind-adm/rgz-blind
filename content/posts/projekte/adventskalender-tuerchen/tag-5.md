@@ -8,7 +8,7 @@ tag: 5
 ---
 
 import SpeechOutput from "gatsby-mdx-tts/SpeechOutput"
-import { PlayButton } from "../../PlayButton"
+import { PlayButton } from components/PlayButton"
 
 <SpeechOutput id="adventskalender-tag-5-teil-1" customPlayButton={PlayButton}>
 

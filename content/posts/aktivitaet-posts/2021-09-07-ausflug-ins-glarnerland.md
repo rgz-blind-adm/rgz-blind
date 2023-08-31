@@ -8,7 +8,7 @@ istArchiviert: true
 anmeldeformularanzeigen: false
 ---
 import SpeechOutput from "gatsby-mdx-tts/SpeechOutput"
-import { PlayButton } from "../PlayButton"
+import { PlayButton } from components/PlayButton"
 
 <SpeechOutput id="ausflug-glarnerland-2021-09-25" customPlayButton={PlayButton}>
 
@@ -50,7 +50,8 @@ Immer 15 Minuten nach der vollen Stunde fährt die S25 ohne Umsteigen nach Züri
 **Anmeldung:**	
 bis spätestens Samstag 19. September 2021 mit untenstehendem Anmeldeformular. Bitte gebt an, ob ihr mit einer Begleitperson kommt und ob ihr das Menü mit Fleisch oder Vegi möchtet oder wenn ihr erst zum Mittagessen im Hotel Glarnerhof zu uns stossen wollt. 
 
-Wir freuen uns auf Eure zahlreichen Anmeldungen und darauf, mit Euch diesen weiteren Anlass geniessen zu können.   
+Wir freuen uns auf Eure zahlreichen Anmeldungen und darauf, mit Euch diesen weiteren Anlass geniessen zu können. 
+  
 Im Namen des RGZ-Vorstandes   
 Helene Zimmermann und Martina Schweizer 
 

@@ -5,7 +5,7 @@ kategorie: 2. Hauptspeisen
 seodescription: Ein Makkaroni-Landjäger Auflauf Rezept von Margrit Vollenweider.
 ---
 import SpeechOutput from "gatsby-mdx-tts/SpeechOutput"
-import { PlayButton } from "../../PlayButton"
+import { PlayButton } from components/PlayButton"
 
 <SpeechOutput id="kochrezept-margrit-vollenweider-makkaroni-landjaeger-auflauf" customPlayButton={PlayButton}>
 

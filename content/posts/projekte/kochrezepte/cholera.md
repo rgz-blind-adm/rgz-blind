@@ -5,7 +5,7 @@ kategorie: 2. Hauptspeisen
 seodescription: Cholera - Ein Walliser Rezept von Richi Weissen
 ---
 import SpeechOutput from "gatsby-mdx-tts/SpeechOutput"
-import { PlayButton } from "../../PlayButton"
+import { PlayButton } from components/PlayButton"
 
 <SpeechOutput id="kochrezept-richi-weissen-cholera" customPlayButton={PlayButton}>
 
@@ -45,7 +45,8 @@ ca. 1 Stunde
 * Kartoffeln weich kochen und schälen und nach dem Auskühlen raffeln oder in dünne Scheiben schneiden.  
 * Äpfel und Birnen halbieren, entkernen, in dünne Scheiben schneiden, mit Salz und Pfeffer würzen und mit Butter in der Bratpfanne kurz andünsten. 
 
-* Die Zwiebeln und den Lauch in Ringe schneiden, mit Salz und Pfeffer würzen und mit Butter in der Bratpfanne kurz andünsten.   
+* Die Zwiebeln und den Lauch in Ringe schneiden, mit Salz und Pfeffer würzen und mit Butter in der Bratpfanne kurz andünsten. 
+  
 * Speckwürfel ebenfalls kurz anbraten. 
 * Eine Springform (oder eine runde Kuchenform) einfetten oder mit Backpapier auslegen. Den einen Blätterteig in die Springform geben und den Teig am Formenrand gleichmässig hochziehen. Den Teigboden mit einer Gabel einstechen. 
 * Jeweils eine Schicht Äpfel, dann Kartoffeln, dann Birnen, dann Speck, dann Zwiebeln und zuletzt den Käse in die Form schichten. Diesen Vorgang wiederholen bis alle Zutaten aufgebraucht sind.

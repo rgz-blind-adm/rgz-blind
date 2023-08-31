@@ -5,7 +5,7 @@ kategorie: 2. Hauptspeisen
 seodescription: Capuns aus dem Medelsertal von Cecilia Rey-Lutz
 ---
 import SpeechOutput from "gatsby-mdx-tts/SpeechOutput"
-import { PlayButton } from "../../PlayButton"
+import { PlayButton } from components/PlayButton"
 
 <SpeechOutput id="kochrezept-cecilia-rey-lutz-capuns" customPlayButton={PlayButton}>
 

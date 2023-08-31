@@ -5,7 +5,7 @@ kategorie: 3. Dessert
 seodescription: Ein Rezept für Schokoladekugeln Myrta von Liliane Schweizer.
 ---
 import SpeechOutput from "gatsby-mdx-tts/SpeechOutput"
-import { PlayButton } from "../../PlayButton"
+import { PlayButton } from components/PlayButton"
 
 <SpeechOutput id="kochrezept-liliane-schweizer-schokoladekugeln-myrta" customPlayButton={PlayButton}>
 

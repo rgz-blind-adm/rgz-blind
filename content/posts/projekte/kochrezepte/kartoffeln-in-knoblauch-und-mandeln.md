@@ -6,7 +6,7 @@ seodescription: Kartoffeln in Knoblauch und Mandeln. Ein andalusisches Gericht
   von der Mutter von Rosa Navarro.
 ---
 import SpeechOutput from "gatsby-mdx-tts/SpeechOutput"
-import { PlayButton } from "../../PlayButton"
+import { PlayButton } from components/PlayButton"
 
 <SpeechOutput id="kochrezept-mutter-rosa-navarro-kartoffeln-knoblauch-mandeln" customPlayButton={PlayButton}>
 

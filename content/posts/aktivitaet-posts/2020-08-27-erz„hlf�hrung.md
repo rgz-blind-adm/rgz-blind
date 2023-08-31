@@ -9,7 +9,7 @@ date: 2020-09-20
 anmeldeformularanzeigen: false
 ---
 import SpeechOutput from "gatsby-mdx-tts/SpeechOutput"
-import { PlayButton } from "../PlayButton"
+import { PlayButton } from components/PlayButton"
 
 <SpeechOutput id="aktivitaet-erzaehlfuehrung" customPlayButton={PlayButton}>
 

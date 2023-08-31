@@ -3,7 +3,7 @@ templateKey: index-page
 title: Willkommen
 ---
 import SpeechOutput from "gatsby-mdx-tts/SpeechOutput"
-import { PlayButton } from "./PlayButton"
+import { PlayButton } from "components/PlayButton"
 
 <SpeechOutput id="index-page" customPlayButton={PlayButton}>
 

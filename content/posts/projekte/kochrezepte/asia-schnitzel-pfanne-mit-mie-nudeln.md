@@ -6,7 +6,7 @@ seodescription: Asia-Schnitzel-Pfanne mit Mie-Nudeln Rezept von Andrin Meier,
   entnommen aus der WW App.
 ---
 import SpeechOutput from "gatsby-mdx-tts/SpeechOutput"
-import { PlayButton } from "../../PlayButton"
+import { PlayButton } from components/PlayButton"
 
 <SpeechOutput id="kochrezept-andrin-meier-asia-schnitzel-mie-nudeln" customPlayButton={PlayButton}>
 

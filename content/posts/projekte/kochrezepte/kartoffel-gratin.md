@@ -5,7 +5,7 @@ kategorie: 2. Hauptspeisen
 seodescription: Kartoffel Gratin von Philippe Berthoud
 ---
 import SpeechOutput from "gatsby-mdx-tts/SpeechOutput"
-import { PlayButton } from "../../PlayButton"
+import { PlayButton } from components/PlayButton"
 
 <SpeechOutput id="kochrezept-liliane-schweizer-kartoffel-gratin" customPlayButton={PlayButton}>
 

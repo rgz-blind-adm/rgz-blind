@@ -8,7 +8,7 @@ istArchiviert: true
 anmeldeformularanzeigen: false
 ---
 import SpeechOutput from "gatsby-mdx-tts/SpeechOutput"
-import { PlayButton } from "../PlayButton"
+import { PlayButton } from components/PlayButton"
 
 <SpeechOutput id="aktivitaet-zoom-treffen-2022-01-10" customPlayButton={PlayButton}>
 

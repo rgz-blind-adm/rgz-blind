@@ -5,7 +5,7 @@ kategorie: 2. Hauptspeisen
 seodescription: Ein Rezept für Camembert-Plätzli von Liliane Schweizer.
 ---
 import SpeechOutput from "gatsby-mdx-tts/SpeechOutput"
-import { PlayButton } from "../../PlayButton"
+import { PlayButton } from components/PlayButton"
 
 <SpeechOutput id="kochrezept-liliane-schweizer-camembert-plaetzli" customPlayButton={PlayButton}>
 

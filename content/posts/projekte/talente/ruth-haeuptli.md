@@ -4,7 +4,7 @@ title: Ruth Häuptli
 seodescription: Ruth Häuptli zeigt Ihr Talent mit dem Schwyzerörgeli.
 ---
 import SpeechOutput from "gatsby-mdx-tts/SpeechOutput"
-import { PlayButton } from "../../PlayButton"
+import { PlayButton } from components/PlayButton"
 
 <SpeechOutput id="talent-ruth-häuptli" customPlayButton={PlayButton}>
 

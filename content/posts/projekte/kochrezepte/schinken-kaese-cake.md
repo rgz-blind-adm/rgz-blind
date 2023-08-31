@@ -5,7 +5,7 @@ kategorie: 2. Hauptspeisen
 seodescription: Ein Rezept für Schinken-Käse-Cake von Liliane Schweizer.
 ---
 import SpeechOutput from "gatsby-mdx-tts/SpeechOutput"
-import { PlayButton } from "../../PlayButton"
+import { PlayButton } from components/PlayButton"
 
 <SpeechOutput id="kochrezept-liliane-schweizer-schinken-kaese-cake" customPlayButton={PlayButton}>
 

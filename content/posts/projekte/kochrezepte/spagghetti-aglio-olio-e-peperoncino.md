@@ -5,7 +5,7 @@ kategorie: 2. Hauptspeisen
 seodescription: Spaghetti aglio, olio e peperoncino
 ---
 import SpeechOutput from "gatsby-mdx-tts/SpeechOutput"
-import { PlayButton } from "../../PlayButton"
+import { PlayButton } from components/PlayButton"
 
 <SpeechOutput id="kochrezept-bettina-prigge-spaghetti-aglio-olio-peperoncino" customPlayButton={PlayButton}>
 

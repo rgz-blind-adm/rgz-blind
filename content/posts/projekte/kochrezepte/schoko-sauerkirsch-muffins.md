@@ -5,7 +5,7 @@ kategorie: 3. Dessert
 seodescription: Schoko-Sauerkirsch Muffins
 ---
 import SpeechOutput from "gatsby-mdx-tts/SpeechOutput"
-import { PlayButton } from "../../PlayButton"
+import { PlayButton } from components/PlayButton"
 
 <SpeechOutput id="kochrezept-adrienn-seifert-muffins" customPlayButton={PlayButton}>
 
