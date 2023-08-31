@@ -6,14 +6,28 @@ title: Sport und Freizeit
 import SpeechOutput from "gatsby-mdx-tts/SpeechOutput"
 import { PlayButton } from "components/PlayButton"
 
-
 <SpeechOutput id="ueberuns-page-teil3" customPlayButton={PlayButton}>
 
-# *Ein paar Schlaglichter aus der Vergangenheit*
+# Sport- und Freizeitangebote
 
-BeispielText
+<!--StartFragment-->
 
-*In den sechziger-Jahren waren sicher die legendären Theater- und Unterhaltungsabende in der Stadt Zürich vor vollen Sälen eine Schlagzeile wert, wo alles, von der Musik bis zum Theater, bis zur Tombola von den Mitgliedern in Eigenregier über die Bühne gegangen ist.*
+Kursangebot von Blindenbund, Blindenverband und CAB:
 
+<https://kurseplus.ch/>
+
+ 
+
+Plusport:
+
+[www.plusport.ch](http://www.plusport.ch/)
+
+ 
+
+Verein Blind Jogging:
+
+<https://blind-jogging.ch/>
+
+<!--EndFragment-->
 
 </SpeechOutput>
