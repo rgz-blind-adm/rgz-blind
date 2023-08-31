@@ -3,7 +3,7 @@ templateKey: aktivitaeten-page
 title: Aktivitäten
 ---
 import SpeechOutput from "gatsby-mdx-tts/SpeechOutput"
-import { PlayButton } from components/PlayButton"
+import { PlayButton } from "components/PlayButton"
 
 <SpeechOutput id="aktivitaeten-page" customPlayButton={PlayButton}>
 

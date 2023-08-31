@@ -5,7 +5,7 @@ kategorie: 2. Hauptspeisen
 seodescription: Eine fruchtige Currysauce von Katharina Stockmann.
 ---
 import SpeechOutput from "gatsby-mdx-tts/SpeechOutput"
-import { PlayButton } from components/PlayButton"
+import { PlayButton } from "components/PlayButton"
 
 <SpeechOutput id="kochrezept-katharina-stockmann-fruchtige-currysauce" customPlayButton={PlayButton}>
 

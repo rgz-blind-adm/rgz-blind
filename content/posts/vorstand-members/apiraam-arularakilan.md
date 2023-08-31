@@ -11,7 +11,7 @@ email: apiraam.arularakilan@rgz-blind.ch
 reihenfolge: 9
 ---
 import SpeechOutput from "gatsby-mdx-tts/SpeechOutput"
-import { PlayButton } from components/PlayButton"
+import { PlayButton } from "components/PlayButton"
 
 <SpeechOutput id="vorstand-apiraam-arularakilan" customPlayButton={PlayButton}>
 

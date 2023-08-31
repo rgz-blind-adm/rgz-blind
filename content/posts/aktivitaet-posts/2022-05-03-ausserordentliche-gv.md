@@ -8,7 +8,7 @@ istArchiviert: true
 anmeldeformularanzeigen: true
 ---
 import SpeechOutput from "gatsby-mdx-tts/SpeechOutput"
-import { PlayButton } from components/PlayButton"
+import { PlayButton } from "components/PlayButton"
 
 <SpeechOutput id="aktivitaet-ausserordentliche-gv-2022" customPlayButton={PlayButton}>
 

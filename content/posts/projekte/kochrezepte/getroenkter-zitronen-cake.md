@@ -6,7 +6,7 @@ seodescription: Ein herrlicher feuchter Zitronenkuchen - Rezept aus der
   Kochschule von Jeannine Ulrich
 ---
 import SpeechOutput from "gatsby-mdx-tts/SpeechOutput"
-import { PlayButton } from components/PlayButton"
+import { PlayButton } from "components/PlayButton"
 
 <SpeechOutput id="kochrezept-jeannine-ulrich-zitronencake" customPlayButton={PlayButton}>
 

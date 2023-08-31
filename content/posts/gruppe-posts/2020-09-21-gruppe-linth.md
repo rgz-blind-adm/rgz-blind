@@ -6,7 +6,7 @@ seodescription: Die Gruppe Linth trifft sich regelmässig zum Austausch in der
 frequenz: ca. alle 2 Monate
 ---
 import SpeechOutput from "gatsby-mdx-tts/SpeechOutput"
-import { PlayButton } from components/PlayButton"
+import { PlayButton } from "components/PlayButton"
 
 <SpeechOutput id="gruppe-linth" customPlayButton={PlayButton}>
 

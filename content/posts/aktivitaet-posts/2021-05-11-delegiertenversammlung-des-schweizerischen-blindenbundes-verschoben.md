@@ -9,7 +9,7 @@ istArchiviert: true
 anmeldeformularanzeigen: false
 ---
 import SpeechOutput from "gatsby-mdx-tts/SpeechOutput"
-import { PlayButton } from components/PlayButton"
+import { PlayButton } from "components/PlayButton"
 
 <SpeechOutput id="aktivitaet-delegiertenversammlung-blindenbund-2021-08-28" customPlayButton={PlayButton}>
 

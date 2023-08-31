@@ -4,7 +4,7 @@ title: Grossmünster Modell repariert!
 photogallery: []
 ---
 import SpeechOutput from "gatsby-mdx-tts/SpeechOutput"
-import { PlayButton } from components/PlayButton"
+import { PlayButton } from "components/PlayButton"
 
 <SpeechOutput id="projekt-grossmuenster-modell-reparatriert" customPlayButton={PlayButton}>
 

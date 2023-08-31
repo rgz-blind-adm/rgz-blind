@@ -5,7 +5,7 @@ kategorie: 2. Hauptspeisen
 seodescription: Khoresh Rivas
 ---
 import SpeechOutput from "gatsby-mdx-tts/SpeechOutput"
-import { PlayButton } from components/PlayButton"
+import { PlayButton } from "components/PlayButton"
 
 <SpeechOutput id="kochrezept-martina-schweizer-khoresh-rivas" customPlayButton={PlayButton}>
 

@@ -6,7 +6,7 @@ seodescription: Bereschlorzifladen mit Birnen - ein Dessert von Klaus Marthy,
   der auch mal als Hauptgang gegessen werden darf
 ---
 import SpeechOutput from "gatsby-mdx-tts/SpeechOutput"
-import { PlayButton } from components/PlayButton"
+import { PlayButton } from "components/PlayButton"
 
 <SpeechOutput id="kochrezept-klaus-marthy-bereschlorzifladen-birnen" customPlayButton={PlayButton}>
 

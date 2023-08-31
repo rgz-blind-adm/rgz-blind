@@ -5,7 +5,7 @@ kategorie: 2. Hauptspeisen
 seodescription: Teigwaren mit Cherrytomaten in einem Topf von Philippe Berthoud
 ---
 import SpeechOutput from "gatsby-mdx-tts/SpeechOutput"
-import { PlayButton } from components/PlayButton"
+import { PlayButton } from "components/PlayButton"
 
 <SpeechOutput id="kochrezept-liliane-schweizer-teigwaren-mit-cherrytomaten-in-einem-topf" customPlayButton={PlayButton}>
 

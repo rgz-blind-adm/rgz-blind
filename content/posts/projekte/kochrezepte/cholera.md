@@ -5,7 +5,7 @@ kategorie: 2. Hauptspeisen
 seodescription: Cholera - Ein Walliser Rezept von Richi Weissen
 ---
 import SpeechOutput from "gatsby-mdx-tts/SpeechOutput"
-import { PlayButton } from components/PlayButton"
+import { PlayButton } from "components/PlayButton"
 
 <SpeechOutput id="kochrezept-richi-weissen-cholera" customPlayButton={PlayButton}>
 

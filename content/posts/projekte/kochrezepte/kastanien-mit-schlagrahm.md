@@ -5,7 +5,7 @@ kategorie: 3. Dessert
 seodescription: Kastanien mit Schlagrahm - Ein Tessiner Rezept
 ---
 import SpeechOutput from "gatsby-mdx-tts/SpeechOutput"
-import { PlayButton } from components/PlayButton"
+import { PlayButton } from "components/PlayButton"
 
 <SpeechOutput id="kochrezept-irma-roesch-castagne-con-panna-montata" customPlayButton={PlayButton}>
 

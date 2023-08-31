@@ -5,7 +5,7 @@ kategorie: 2. Hauptspeisen
 seodescription: Risotto con Luganighetta alla Grappa
 ---
 import SpeechOutput from "gatsby-mdx-tts/SpeechOutput"
-import { PlayButton } from components/PlayButton"
+import { PlayButton } from "components/PlayButton"
 
 <SpeechOutput id="kochrezept-irma-roesch-risotto-con-luganighetta-alla-grappa" customPlayButton={PlayButton}>
 

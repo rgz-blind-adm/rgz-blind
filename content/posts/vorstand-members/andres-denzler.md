@@ -11,7 +11,7 @@ email: andres.denzler@rgz-blind.ch
 reihenfolge: 4
 ---
 import SpeechOutput from "gatsby-mdx-tts/SpeechOutput"
-import { PlayButton } from components/PlayButton"
+import { PlayButton } from "components/PlayButton"
 
 <SpeechOutput id="vorstand-andres-denzler" customPlayButton={PlayButton}>
 

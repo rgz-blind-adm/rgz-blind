@@ -11,7 +11,7 @@ photogallery:
       alt: Geschichte, welche Maria Navarro vom Spanischen übersetzt hat.
 ---
 import SpeechOutput from "gatsby-mdx-tts/SpeechOutput"
-import { PlayButton } from components/PlayButton"
+import { PlayButton } from "components/PlayButton"
 
 <SpeechOutput id="talent-maria-navarro" customPlayButton={PlayButton}>
 

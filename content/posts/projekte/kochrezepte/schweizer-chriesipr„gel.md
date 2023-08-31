@@ -5,7 +5,7 @@ kategorie: 3. Dessert
 seodescription: Schweizer Chriesiprägel
 ---
 import SpeechOutput from "gatsby-mdx-tts/SpeechOutput"
-import { PlayButton } from components/PlayButton"
+import { PlayButton } from "components/PlayButton"
 
 <SpeechOutput id="kochrezept-reini-anliker-chriesiprägel" customPlayButton={PlayButton}>
 

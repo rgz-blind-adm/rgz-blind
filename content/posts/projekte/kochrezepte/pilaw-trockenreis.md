@@ -5,7 +5,7 @@ kategorie: 2. Hauptspeisen
 seodescription: "Pilaw-Trockenreis "
 ---
 import SpeechOutput from "gatsby-mdx-tts/SpeechOutput"
-import { PlayButton } from components/PlayButton"
+import { PlayButton } from "components/PlayButton"
 
 <SpeechOutput id="kochrezept-helene-zimmermann-pilaw-trockenreis" customPlayButton={PlayButton}>
 

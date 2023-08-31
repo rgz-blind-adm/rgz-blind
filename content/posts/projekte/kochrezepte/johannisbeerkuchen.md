@@ -5,7 +5,7 @@ kategorie: 3. Dessert
 seodescription: Ein Rezept für einen Johannisbeerkuchen von Helene Zimmermann
 ---
 import SpeechOutput from "gatsby-mdx-tts/SpeechOutput"
-import { PlayButton } from components/PlayButton"
+import { PlayButton } from "components/PlayButton"
 
 <SpeechOutput id="kochrezept-helene-zimmermann-johannisbeerkuchen" customPlayButton={PlayButton}>
 

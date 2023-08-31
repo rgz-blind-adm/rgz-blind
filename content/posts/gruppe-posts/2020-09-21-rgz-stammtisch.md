@@ -5,7 +5,7 @@ seodescription: Der RGZ Stammtisch trifft sich immer am letzten Donnerstag des M
 frequenz: immer am letzten Donnerstag des Monats
 ---
 import SpeechOutput from "gatsby-mdx-tts/SpeechOutput"
-import { PlayButton } from components/PlayButton"
+import { PlayButton } from "components/PlayButton"
 
 <SpeechOutput id="gruppe-rgz-stammtisch" customPlayButton={PlayButton}>
 

@@ -11,7 +11,7 @@ email: nicole.sourt@rgz-blind.ch
 reihenfolge: 6
 ---
 import SpeechOutput from "gatsby-mdx-tts/SpeechOutput"
-import { PlayButton } from components/PlayButton"
+import { PlayButton } from "components/PlayButton"
 
 <SpeechOutput id="vorstand-nicole-sourt-sanchez" customPlayButton={PlayButton}>
 

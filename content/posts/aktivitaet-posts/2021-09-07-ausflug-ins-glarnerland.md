@@ -8,7 +8,7 @@ istArchiviert: true
 anmeldeformularanzeigen: false
 ---
 import SpeechOutput from "gatsby-mdx-tts/SpeechOutput"
-import { PlayButton } from components/PlayButton"
+import { PlayButton } from "components/PlayButton"
 
 <SpeechOutput id="ausflug-glarnerland-2021-09-25" customPlayButton={PlayButton}>
 

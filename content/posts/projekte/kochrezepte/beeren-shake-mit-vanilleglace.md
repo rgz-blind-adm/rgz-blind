@@ -5,7 +5,7 @@ kategorie: 3. Dessert
 seodescription: Erfrischender Beeren-Shake mit Vanilleglacé
 ---
 import SpeechOutput from "gatsby-mdx-tts/SpeechOutput"
-import { PlayButton } from components/PlayButton"
+import { PlayButton } from "components/PlayButton"
 
 <SpeechOutput id="kochrezept-brigitte-marthy-beeren-shake-vanilleglace" customPlayButton={PlayButton}>
 

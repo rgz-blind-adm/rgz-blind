@@ -5,7 +5,7 @@ kategorie: 3. Dessert
 seodescription: Rüeblitorte
 ---
 import SpeechOutput from "gatsby-mdx-tts/SpeechOutput"
-import { PlayButton } from components/PlayButton"
+import { PlayButton } from "components/PlayButton"
 
 <SpeechOutput id="kochrezept-verena-van-voornveld-rüeblitorte" customPlayButton={PlayButton}>
 
