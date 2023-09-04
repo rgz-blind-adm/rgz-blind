@@ -14,9 +14,9 @@ import { PlayButton } from "components/PlayButton"
 
 Test Inhalt
 
-* **[Kultur](https://rgz-blind.ch/kultur)**. 
+* **[Kultur](https://rgz-blind.ch/kultur)** 
 
-* **[Sport und Freizeit](https://rgz-blind.ch/sport-und-freizeit)**. 
+* **[Sport und Freizeit](https://rgz-blind.ch/sport-und-freizeit)** 
 
 
 
