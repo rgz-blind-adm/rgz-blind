@@ -14,19 +14,18 @@ import { PlayButton } from "components/PlayButton"
 
 Kursangebot von Blindenbund, Blindenverband und CAB:
 
-<https://kurseplus.ch/>
-
+* **[Kursangebot von Blindenbund, Blindenverband und CAB:
+](https://www.inclusion-handicap.ch/)**
  
 
 Plusport:
 
-[www.plusport.ch](http://www.plusport.ch/)
-
+* **[Plusport](http://www.plusport.ch/)**
  
 
 Verein Blind Jogging:
 
-<https://blind-jogging.ch/>
+* **[Verein Blind Jogging](https://blind-jogging.ch/)**
 
 <!--EndFragment-->
 
