@@ -6,7 +6,7 @@ title: Mithilfe
 import SpeechOutput from "gatsby-mdx-tts/SpeechOutput"
 import { PlayButton } from "components/PlayButton"
 
-<SpeechOutput id="ueberuns-page-teil2" customPlayButton={PlayButton}>
+<SpeechOutput id="mithilfe-page-teil1" customPlayButton={PlayButton}>
 
 ## W﻿ir nehmen gerne Hilfe an!
 

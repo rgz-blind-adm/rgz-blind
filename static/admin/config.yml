@@ -213,9 +213,9 @@ collections:
           - {label: "Template Key", name: "templateKey", widget: "hidden", default: "mithilfe-page"}
           - {label: "Title", name: "title", widget: "string"}
           - {label: "Body", name: "body", widget: "markdown"}
-      - file: "content/pages/externe_angebote.md"
+      - file: "content/pages/externe-angebote.md"
         label: "Externe Angebote"
-        name: "externe_angebote"
+        name: "externe-angebote"
         fields:
           - {label: "Template Key", name: "templateKey", widget: "hidden", default: "externe-angebote-page"}
           - {label: "Title", name: "title", widget: "string"}
@@ -227,9 +227,9 @@ collections:
           - {label: "Template Key", name: "templateKey", widget: "hidden", default: "kultur-page"}
           - {label: "Title", name: "title", widget: "string"}
           - {label: "Body", name: "body", widget: "markdown"}
-      - file: "content/pages/sport_und_freizeit.md"
+      - file: "content/pages/sport-und-freizeit.md"
         label: "Sport und Freizeit"
-        name: "sport_und_freizeit"
+        name: "sport-und-freizeit"
         fields:
           - {label: "Template Key", name: "templateKey", widget: "hidden", default: "sport-und-freizeit-page"}
           - {label: "Title", name: "title", widget: "string"}

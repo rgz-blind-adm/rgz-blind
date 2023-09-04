@@ -1,12 +1,12 @@
 ---
 templateKey: sport-freizeit-page
-path: /sport_und_freizeit
+path: /sport-und-freizeit
 title: Sport und Freizeit
 ---
 import SpeechOutput from "gatsby-mdx-tts/SpeechOutput"
 import { PlayButton } from "components/PlayButton"
 
-<SpeechOutput id="ueberuns-page-teil3" customPlayButton={PlayButton}>
+<SpeechOutput id="sport-und-freizeit-page-teil1" customPlayButton={PlayButton}>
 
 # Sport- und Freizeitangebote
 

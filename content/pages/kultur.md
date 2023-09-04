@@ -6,7 +6,7 @@ title: Kultur
 import SpeechOutput from "gatsby-mdx-tts/SpeechOutput"
 import { PlayButton } from "components/PlayButton"
 
-<SpeechOutput id="ueberuns-page-teil1" customPlayButton={PlayButton}>
+<SpeechOutput id="kultur-page-teil1" customPlayButton={PlayButton}>
 
 # K﻿ulturangebote
 
