@@ -12,7 +12,6 @@ import { PlayButton } from "components/PlayButton"
 
 <!--StartFragment-->
 
-Test Inhalt
 
 * **[Kultur](https://rgz-blind.ch/kultur)** 
 
