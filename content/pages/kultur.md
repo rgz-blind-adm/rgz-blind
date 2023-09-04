@@ -10,12 +10,14 @@ import { PlayButton } from "components/PlayButton"
 
 # K﻿ulturangebote
 
-Spezialführungen im Landesmuseum: 
+Spezialführungen im Landesmuseum:
 
-* **[Spezialführungen im Landesmuseum](https://www.landesmuseum.ch/de/barrierefreiheit/sehbehinderung)**
+<https://www.landesmuseum.ch/de/barrierefreiheit/sehbehinderung>
+
+
 
 Museum Haus Konstruktiv: individuelle Führungen
 
-* **[Museum Haus Konstruktiv](https://www.hauskonstruktiv.ch/events/294181?title=individuelle-ausstellungsbegleitung)**
+<https://www.hauskonstruktiv.ch/events/324140?title=individuelle-ausstellungsbegleitung>
 
 </SpeechOutput>
