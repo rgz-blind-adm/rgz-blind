@@ -43,13 +43,13 @@ Internationales Torballturnier Zürich (ITTZ)
  
  
 
-Showdown (Blinden-Tischtenis)
+Showdown (Blinden-Tischtennis)
 
-* **[Showdown (Blinden-Tischtenis)](https://www.swiss-showdown.ch/)**
+* **[Swiss Showdown (Blinden-Tischtennis)](https://www.swiss-showdown.ch/)**
  
 
 oder 
-* **[Showdown (Blinden-Tischtenis)](https://www.bsczuerich.ch/#showdown)**
+* **[bsczuerich Showdown (Blinden-Tischtennis)](https://www.bsczuerich.ch/#showdown)**
 
  
 
