@@ -13,9 +13,6 @@ import { PlayButton } from "components/PlayButton"
 
 **Leitbild-Motto des Schweizerischen Blindenbundes 2023:** Wo wir an Grenzen unserer Möglichkeiten stossen, suchen wir die Zusammenarbeit mit Fachpersonen.
 
-### Samstag, 23. September 2023
-
-Ausflug ins Emmental gemeinsam mit der RGB
 
 ### Samstag, 30. September 2023
 
