@@ -15,7 +15,7 @@ import { PlayButton } from "components/PlayButton"
 Kursangebot von Blindenbund, Blindenverband und CAB:
 
 * **[Kursangebot von Blindenbund, Blindenverband und CAB:
-](https://www.inclusion-handicap.ch/)**
+](https://kurseplus.ch/)**
  
 
 Plusport:
