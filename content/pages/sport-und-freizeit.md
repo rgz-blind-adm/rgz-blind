@@ -30,3 +30,25 @@ Verein Blind Jogging:
 <!--EndFragment-->
 
 </SpeechOutput>
+
+Behinderten-Sportclub Zürich, Torball
+
+* **[Behinderten-Sportclub Zürich, Torball](https://www.bsczuerich.ch/#Torball)**
+
+ 
+
+Internationales Torballturnier Zürich (ITTZ)
+
+* **[Internationales Torballturnier Zürich (ITTZ)](https://www.ittz.ch/)**
+
+ 
+
+Showdown (Blinden-Tischtenis)
+
+* **[Showdown (Blinden-Tischtenis)](https://www.swiss-showdown.ch/)**
+
+oder 
+**[Showdown (Blinden-Tischtenis)](https://www.bsczuerich.ch/#showdown)**
+
+ 
+
