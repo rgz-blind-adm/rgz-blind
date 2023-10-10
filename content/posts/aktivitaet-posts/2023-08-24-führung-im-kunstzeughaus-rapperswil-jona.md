@@ -4,7 +4,7 @@ title: Führung im Kunstzeughaus Rapperswil-Jona
 shortdescription: Führung im Kunstzeughaus Rapperswil-Jona
 seodescription: Führung im Kunstzeughaus Rapperswil-Jona
 date: 2023-09-30
-istArchiviert: false
+istArchiviert: true
 anmeldeformularanzeigen: true
 ---
 <!--StartFragment-->
