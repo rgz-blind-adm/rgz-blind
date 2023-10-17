@@ -17,7 +17,7 @@ photogallery:
       image: /uploads/blindversuch7.10.4.jpg
       alt: Tag des Weissen Stockes
 date: 2023-10-15
-istArchiviert: false
+istArchiviert: true
 anmeldeformularanzeigen: false
 ---
 <!--StartFragment-->
