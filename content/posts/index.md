@@ -13,15 +13,6 @@ import { PlayButton } from "components/PlayButton"
 
 **Leitbild-Motto des Schweizerischen Blindenbundes 2023:** Wo wir an Grenzen unserer Möglichkeiten stossen, suchen wir die Zusammenarbeit mit Fachpersonen.
 
-
-### Samstag, 30. September 2023
-
-Führung im Kunstzeughaus Rapperswil-Jona
-
-### Sonntag, 15. Oktober 2023
-
-Tag des Weissen Stockes
-
 ### Freitag, 20. bis Sonntag, 22. Oktober 2023
 
 Wochenendausflug ins Wallis inkl. gemeinsamem Anlass mit der RGW
