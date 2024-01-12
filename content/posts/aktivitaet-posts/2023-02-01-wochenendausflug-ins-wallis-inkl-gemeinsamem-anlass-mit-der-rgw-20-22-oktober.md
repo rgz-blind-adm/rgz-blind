@@ -7,7 +7,7 @@ shortdescription: Wochenendausflug ins Wallis inkl. gemeinsamem Anlass mit der
 seodescription: Wochenendausflug ins Wallis inkl. gemeinsamem Anlass mit der RGW
   (20. - 22. Oktober)
 date: 2023-10-20
-istArchiviert: false
+istArchiviert: true
 anmeldeformularanzeigen: true
 ---
 Wochenendausflug ins Wallis inkl. gemeinsamem Anlass mit der RGW (20. - 22. Oktober)
