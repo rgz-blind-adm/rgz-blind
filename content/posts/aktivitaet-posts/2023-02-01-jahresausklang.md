@@ -4,7 +4,7 @@ title: Jahresausklang
 shortdescription: Jahresausklang
 seodescription: Jahresausklang
 date: 2023-12-02
-istArchiviert: false
+istArchiviert: true
 anmeldeformularanzeigen: true
 ---
 Jahresausklang 
