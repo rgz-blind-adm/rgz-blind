@@ -1,6 +1,6 @@
 ---
 templateKey: aktivitaeten-page
-title: Aktivitäten
+title: "Freitag, 23. Februar Besichtigung des REGA Sitzes in Kloten "
 ---
 import SpeechOutput from "gatsby-mdx-tts/SpeechOutput"
 import { PlayButton } from "components/PlayButton"
