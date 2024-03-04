@@ -7,8 +7,6 @@ date: 2024-03-09
 istArchiviert: false
 anmeldeformularanzeigen: false
 ---
-
-
 <!--StartFragment-->
 
 # EINLADUNG zur 64. ordentlichen Generalversammlung der Regionalgruppe Zürich (RGZ)
@@ -25,7 +23,7 @@ Im Namen des Vorstandes der RGZ lade ich alle ganz herzlich zu unserer diesjähr
 
                        8052 Zürich
 
-Anreise:    Tram Nummer 14 ab Bahnhofplatz oder Bahnhofquai bis zur Endstation Seebach
+Anreise:          Tram Nummer 14 ab Bahnhofplatz oder Bahnhofquai bis zur Endstation Seebach   
 
 ## Programm:       
 
