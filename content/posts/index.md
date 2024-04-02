@@ -13,14 +13,6 @@ import { PlayButton } from "components/PlayButton"
 
 **Leitbild-Motto des Schweizerischen Blindenbundes 2024:** Wir stehen gemeinschaftlich füreinander ein
 
-### Freitag, 23. Februar
-
-Besichtigung des REGA Sitzes in Kloten mit anschliessendem Abendessen im Upperdeck Restaurant Zürich Flughafen. 
-
-### Samstag, 9. März 2024
-
-GV im Hotel/Restaurant Landhus in Zürich-Seebach 
-
 ### Samstag, 13. April 2024
 
 Führung im Kunstzeughaus Rapperswil
