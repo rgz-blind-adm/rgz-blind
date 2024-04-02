@@ -25,7 +25,7 @@ Enthüllung des Bronzemodells durch Patrick Krecl, Architekt und Initiant des Ta
 
 17:45 Apéro
 
-Wir bitten Sie um Anmeldung bis Montag, 22. April 2024, über veranstaltungen@nationalmu-seum.ch.
+Wir bitten Sie um Anmeldung bis Montag, 22. April 2024, über veranstaltungen@nationalmu-seum.ch
 
 
 
