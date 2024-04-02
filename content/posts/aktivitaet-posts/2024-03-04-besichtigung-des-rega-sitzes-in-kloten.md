@@ -20,7 +20,7 @@ photogallery:
       image: /uploads/img_20240223_192330_hdr-1-.jpg
       alt: "(Ein)Blick in die Einsatzzentrale "
 date: 2024-02-23
-istArchiviert: false
+istArchiviert: true
 anmeldeformularanzeigen: false
 ---
 <!--StartFragment-->
