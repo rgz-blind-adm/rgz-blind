@@ -4,7 +4,7 @@ title: GV im Hotel/Restaurant Landhus in Zürich-Seebach
 shortdescription: GV im Hotel/Restaurant Landhus in Zürich-Seebach
 seodescription: GV im Hotel/Restaurant Landhus in Zürich-Seebach
 date: 2024-03-09
-istArchiviert: false
+istArchiviert: true
 anmeldeformularanzeigen: false
 ---
 <!--StartFragment-->
