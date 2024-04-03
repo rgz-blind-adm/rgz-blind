@@ -11,8 +11,6 @@ anmeldeformularanzeigen: true
 
 **Einladung zur Einweihung des Tastmodells Landesmuseums am 26. April 2024**
 
-
-
 Es freut uns sehr, dass der Gebäudekomplex des Landesmuseums erstmals dank eines Tast-modells für alle erfahrbar und sichtbar gemacht wird. Dies nehmen wir gerne zum Anlass Sie am 26. April 2024 zur Enthüllung dieses Modells im Durchgang zum Innenhof gegenüber der Postkutsche einzuladen.
 
 **Programm**
@@ -21,15 +19,11 @@ Es freut uns sehr, dass der Gebäudekomplex des Landesmuseums erstmals dank eine
 
 17:30 Begrüssung durch Beat Högger, Geschäftsführer Museumsbetrieb
 
-Enthüllung des Bronzemodells durch Patrick Krecl, Architekt und Initiant des Tastmo-dells
+Enthüllung des Bronzemodells durch Patrick Krecl, Architekt und Initiant des Tastmodells
 
 17:45 Apéro
 
-Wir bitten Sie um Anmeldung bis Montag, 22. April 2024, über veranstaltungen@nationalmu-seum.ch
-
-
-
-
+Wir bitten Sie um Anmeldung bis Montag, 22. April 2024, über veranstaltungen@nationalmuseum.ch
 
 **W﻿eitere Führungen im Rahmen der Aktionstage Zukunft Inklusion:**
 
