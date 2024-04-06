@@ -1,8 +1,8 @@
 ---
 templateKey: aktivitaet-post
-title: 25. Mai 2024 (Ersatzdatum Samstag, 1. Juni 2024) - Töff-Ausflug ins Blaue
-shortdescription: 25. Mai 2024 (Ersatzdatum Samstag, 1. Juni 2024) - Töff-Ausflug ins Blaue
-seodescription: 25. Mai 2024 (Ersatzdatum Samstag, 1. Juni 2024) - Töff-Ausflug ins Blaue
+title: Töff-Ausflug ins Blaue (Ersatzdatum Samstag, 1. Juni 2024)
+shortdescription: Töff-Ausflug ins Blaue (Ersatzdatum Samstag, 1. Juni 2024)
+seodescription: Töff-Ausflug ins Blaue (Ersatzdatum Samstag, 1. Juni 2024)
 date: 2024-05-25
 istArchiviert: false
 anmeldeformularanzeigen: true
