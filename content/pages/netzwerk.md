@@ -17,6 +17,7 @@ import { PlayButton } from "components/PlayButton"
   Nach über 50 Jahren Tätigkeit beendet Herr Zangerl, Büromaschinen in St. Gallen, die Reparaturen für Braillemaschinen. Ab sofort werden die Reparaturen durch den SZBLIND vorgenommen.\
   Die Braillemaschinen können an folgende Adresse gesandt werden: SZBLIND, Niederlenzer Kirchweg 1, 5600 Lenzburg.  
 * **[Inclusion Handicap](https://www.inclusion-handicap.ch/):** Inclusion Handicap ist die vereinte Stimme der 1.7 Millionen Menschen mit Behinderungen in der Schweiz. Der Dachverband der Behindertenorganisationen setzt sich für Inklusion und den Schutz der Rechte und Würde aller Menschen mit Behinderungen ein.
+* **[ZVV-Tickets per Telefonanruf kaufen – ZVV](https://www.zvv.ch/zvv/de/abos-und-tickets/verkauf-und-beratung/telefonischer-ticketverkauf.html/):** Ein Anruf mit dem Festnetztelefon oder Handy reicht und das ZVV-Ticket oder -Abo wird auf den SwissPass geladen. Ab Mitte März 2024 können Fahrgäste ihr ZVV-Ticket oder -Abo per Telefon beim Kundendienst ZVV-Contact erwerben. Ein Anruf mit dem Festnetztelefon oder Handy reicht und das Einzelticket wird von einem Mitarbeitenden von ZVV-Contact auf den SwissPass geladen. Ein Gang zum Schalter oder Ticketautomaten erübrigt sich. Die Bezahlung erfolgt gegen Rechnung.
 
 ## Partner
 
