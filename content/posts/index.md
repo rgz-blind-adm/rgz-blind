@@ -33,7 +33,7 @@ T﻿öffausflug
 
 K﻿unstzeughaus Rapperswil im Rahmen der Aktionstage
 
-### Samstag, 24. August 2024
+### Samstag, 31. August - 01. September 2024
 
 J﻿ahresausflug
 
