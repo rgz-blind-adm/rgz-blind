@@ -4,7 +4,7 @@ title: Enthüllung Tastmodell Landesmuseum
 shortdescription: Enthüllung Tastmodell Landesmuseum
 seodescription: Enthüllung Tastmodell Landesmuseum
 date: 2024-04-26
-istArchiviert: false
+istArchiviert: true
 anmeldeformularanzeigen: true
 ---
 <!--StartFragment-->
