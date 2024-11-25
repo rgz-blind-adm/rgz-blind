@@ -4,7 +4,7 @@ title: A﻿ktionstage zur Umsetzung der BRK in der ganzen Schweiz
 shortdescription: A﻿ktionstage zur Umsetzung der BRK in der ganzen Schweiz
 seodescription: A﻿ktionstage zur Umsetzung der BRK in der ganzen Schweiz
 date: 2024-05-15
-istArchiviert: false
+istArchiviert: true
 anmeldeformularanzeigen: true
 ---
 <!--StartFragment-->
