@@ -4,7 +4,7 @@ title: P﻿asteten-Workshop
 shortdescription: P﻿asteten-Workshop
 seodescription: P﻿asteten-Workshop
 date: 2024-05-17
-istArchiviert: false
+istArchiviert: true
 anmeldeformularanzeigen: true
 ---
 
