@@ -4,7 +4,7 @@ title: Führung im Kunstzeughaus Rapperswil
 shortdescription: Führung im Kunstzeughaus Rapperswil
 seodescription: Führung im Kunstzeughaus Rapperswil
 date: 2024-04-13
-istArchiviert: false
+istArchiviert: true
 anmeldeformularanzeigen: true
 ---
 <!--StartFragment-->
