@@ -11,42 +11,74 @@ import { PlayButton } from "components/PlayButton"
 
 ## Aktuelles
 
-**Leitbild-Motto des Schweizerischen Blindenbundes 2024:** Wir stehen gemeinschaftlich füreinander ein
+**Leitbild-Motto des Schweizerischen Blindenbundes 2025:** Wir stehen gemeinschaftlich füreinander ein
 
-### Samstag, 13. April 2024
+
+
+<!--StartFragment-->
+
+# Samstag, 1. Februar 2025
 
 Führung im Kunstzeughaus Rapperswil
 
-### Freitag, 17. Mai 2024
+# Samstag, 22. März 2025
 
-P﻿asteten-Workshop 
+GV im Hotel Krone in Zürich mit anschliessender Lesung von Blanka Imboden
 
-### Mittwoch, 15. Mai 2024 - Samstag, 15. Juni 2024
+# Samstag, 3. Mai 2025
 
-A﻿ktionstage zur Umsetzung der BRK in der ganzen Schweiz
+Gemeinsamer Ausflug mit der RGN auf die Insel Ufenau mit Schifffahrt und spannender Führung zu dieser interessanten Insel im Zürichsee
 
-### Samstag, 25. Mai 2024 (Ersatzdatum Samstag, 1. Juni 2024)
+# Samstag, 5. Juli 2025
 
-T﻿öffausflug
+Führung im Technorama Winterthur
 
-### Sonntag, 9. Juni 2024
+# Samstag, 30. August 2025
 
-K﻿unstzeughaus Rapperswil im Rahmen der Aktionstage
+Jahresausflug Dampfbahn Züri-Oberland
 
-### Samstag, 31. August - 01. September 2024
+# Samstag, 4. Oktober 2025
 
-J﻿ahresausflug
+Ausflug in den Wildpark Zürich Sihlwald
 
-### Samstag, 21. September 2024
+# Mittwoch, 15. Oktober 2025
 
-G﻿emeinsamer Ausflug mit der RGN nach Augusta Raurica
+Tag des Weissen Stockes
 
-### Samstag, 2. November 2024
 
-H﻿erbstanlass 
 
-### Samstag, 14. Dezember 2024
+# Samstag, 1. November 2025
 
-J﻿ahresausklang in der Dorflinde
+Herbstanlass gemeinsam mit der SBV-Sektion Zürich/Schaffhausen
+
+# Samstag, 6. Dezember 2025
+
+Jahresausklang im Alterszentrum Dorflinde Zürich-Oerlikon
+
+ 
+
+ 
+
+ 
+
+ 
+
+\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*
+
+**Zusätzlich sind Kinobesuche in Planung.**
+
+Diese werden kurzfristig und ausschliesslich per E-Mail angekündigt. Wer gerne an Kinobesuchen teilnehmen möchte und seine E-Mailadresse bisher noch nicht bei uns hinterlegt hat, ist eingeladen, uns zu kontaktieren und die E-Mailadresse mitzuteilen.
+
+\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*
+
+**Über Anlässe der Gruppe Linth werden Sie rechtzeitig informiert.**
+
+\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*
+
+**Stammtisch im Restaurant Vorbahnhof, Zollstrasse 2, 8005 Zürich**
+
+Jeweils am 3. Donnerstag im Monat ab 18.00 Uhr (ohne Anmeldung)
+
+<!--EndFragment-->
 
 </SpeechOutput>
