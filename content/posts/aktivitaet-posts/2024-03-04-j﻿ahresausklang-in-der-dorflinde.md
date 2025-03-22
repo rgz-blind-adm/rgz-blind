@@ -4,7 +4,7 @@ title: J﻿ahresausklang in der Dorflinde
 shortdescription: J﻿ahresausklang in der Dorflinde
 seodescription: J﻿ahresausklang in der Dorflinde
 date: 2024-12-14
-istArchiviert: false
+istArchiviert: true
 anmeldeformularanzeigen: true
 ---
 <!--StartFragment-->
